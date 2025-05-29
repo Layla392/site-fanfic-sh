@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+<link rel="stylesheet" href="style-fanfic-sh.css">
+<link rel="stylesheet" href="https://site-center.pages.dev/mood/font.css">
+<link rel="stylesheet" href="mood/mood_stories.css">
+<script src="https://site-center.pages.dev/mood/moodEngine.js" defer></script>
+
+  <link rel="icon" href="favicon.png" type="image/png">
+  <link rel="apple-touch-icon" href="favicon.png">
+  <meta name="theme-color" content="#d8f3f9">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Laylaland - Fanfic SH</title>
+</head>
+<body>
+
+  <header>Fanfic SH</header>
+
+<div class="navbar" id="navbar">
+  <div class="top-row">
+    <div class="menu-container">
+      <button class="menu-button" id="menuBtn">Menu</button>
+    
+<div class="menu-panel" id="menuPanel">
+	<div class="toolbar">
+	<input type="text" id="search" placeholder="Tìm kiếm...">
+  
+  <label for="moodSelect" class="menu-group-title">Đổi Giao Diện</label>
+  <div class="mood-toolbar">
+    <select onchange="setMood(this.value)">
+      <option value="origin-1">Mặc định 1</option>
+      <option value="origin-2">Mặc định 2</option>
+      <option value="origin-3">Mặc định 3</option>
+      <option value="pixel">Pixel</option>
+      <option value="galaxy">Galaxy</option>
+      <option value="classic">Classic</option>
+      <option value="trà-đào-nắng-nhẹ">Trà đào nắng nhẹ</option>
+      <option value="galaxy-neon">Galaxy Neon</option>
+      <option value="sách-cổ-thư-viện">Sách cổ thư viện</option>
+      <option value="pixel-retro">Pixel Retro</option>
+      <option value="midnight-rose">Midnight Rose</option>
+      <option value="biển-sớm-mát-mẻ">Biển sớm mát mẻ</option>
+      <option value="băng-tuyết-phương-bắc">Băng tuyết phương Bắc</option>
+      <option value="hồ-thu-xanh-tĩnh">Hồ thu xanh tĩnh</option>
+      <option value="đêm-mùa-hè-yên-tĩnh">Đêm mùa hè yên tĩnh</option>
+      <option value="đêm-sáng-trăng">Đêm sáng trăng</option>
+      <option value="sương-mù-bạc-sớm-mai">Sương mù bạc sớm mai</option>
+      <option value="xanh-bích-thái-lan">Xanh bích Thái Lan</option>
+      <option value="hồ-băng-ánh-trăng">Hồ băng ánh trăng</option>
+      <option value="mưa-xanh-trên-kính">Mưa xanh trên kính</option>
+      <option value="lavender-sương-lạnh">Lavender sương lạnh</option>
+      <option value="bầu-trời-bắc-âu">Bầu trời Bắc Âu</option>
+      <option value="màn-sương-thành-phố">Màn sương thành phố</option>
+      <option value="gió-đồng-thảo-nguyên-lạnh">Gió đồng thảo nguyên lạnh</option>
+      <option value="sáng-sớm-sau-mưa">Sáng sớm sau mưa</option>
+      <option value="gió-lặng-ngoài-hiên">Gió lặng ngoài hiên</option>
+      <option value="sân-trường-hoài-niệm">Sân trường hoài niệm</option>
+      <option value="cát-sông-dịu-nhẹ">Cát sông dịu nhẹ</option>
+      <option value="trắng-bạc-hiện-đại">Trắng bạc hiện đại</option>
+      <option value="trắng-bạc-accent-xanh-ngọc-nhạt">Trắng bạc + Accent xanh ngọc nhạt</option>
+      <option value="trắng-ấm-nhẹ-pha-cam-nhạt">Trắng ấm nhẹ, pha cam nhạt</option>
+      <option value="mây-hoàng-hôn">Mây hoàng hôn</option>
+      <option value="tàng-cây-xanh-bạc-hà">Tàng cây xanh bạc hà</option>
+      <option value="nắng-sớm-ban-công">Nắng sớm ban công</option>
+      <option value="trăng-non-qua-lưới">Trăng non qua lưới</option>
+      <option value="gió-thổi-đồng-lau">Gió thổi đồng lau</option>
+      <option value="pixel-kẹo-bông">Pixel Kẹo Bông</option>
+      <option value="pixel-xanh-neon">Pixel Xanh Neon</option>
+      <option value="pixel-màn-hình-gameboy">Pixel Màn Hình Gameboy</option>
+      <option value="pixel-minty-sky">Pixel Minty Sky</option>
+      <option value="pixel-hacker-terminal">Pixel Hacker Terminal</option>
+      <option value="pixel-lavender-retro">Pixel Lavender Retro</option>
+      <option value="pixel-clay-console">Pixel Clay Console</option>
+      <option value="trắng-kem-lễ-đường">Trắng kem lễ đường</option>
+      <option value="hồng-phấn-chào-dâu">Hồng phấn chào dâu</option>
+      <option value="đám-cưới-hoàng-gia">Đám cưới hoàng gia</option>
+      <option value="cưới-bí-mật-giữa-rừng">Cưới bí mật giữa rừng</option>
+      <option value="minh-hôn-bí-cảnh">Minh Hôn Bí Cảnh</option>
+      <option value="minh-hôn-đêm-trăng">Minh Hôn Đêm Trăng</option>
+      <option value="minh-hôn-đưa-dâu-rừng-trúc">Minh Hôn Đưa Dâu Rừng Trúc</option>
+      <option value="minh-hôn-trấn-trạch">Minh Hôn Trấn Trạch</option>
+      <option value="minh-hôn-lạc-dương">Minh Hôn Lạc Dương</option>
+      <option value="long-tộc-chân-chính">Long Tộc Chân Chính</option>
+      <option value="long-tộc-tân-thời-urban-fantasy">Long Tộc Tân Thời (Urban Fantasy)</option>
+      <option value="long-tộc-cưới-huyết-khế-ước">Long Tộc Cưới Huyết Khế Ước</option>
+      <option value="màu-kem-dâu">Màu Kem Dâu</option>
+      <option value="trời-xanh-bong-bóng">Trời Xanh Bong Bóng</option>
+      <option value="trà-sữa-trân-châu">Trà Sữa Trân Châu</option>
+      <option value="kẹo-gummy-cầu-vồng">Kẹo Gummy Cầu Vồng</option>
+      <option value="công-chúa-cổ-điển">Công Chúa Cổ Điển</option>
+      <option value="cung-điện-disney">Cung Điện Disney</option>
+      <option value="hoàng-hôn-simba">Hoàng Hôn Simba</option>
+      <option value="nữ-hoàng-băng-giá">Nữ Hoàng Băng Giá (Elsa mode)</option>
+      <option value="maleficent-vibes">Maleficent Vibes</option>
+      <option value="evil-queen">Evil Queen (Snow White)</option>
+      <option value="ursula-from-under-the-sea">Ursula from Under the Sea</option>
+      <option value="cruella-de-vil-fashion-villain">Cruella de Vil – Fashion Villain</option>
+      <option value="cyberpunk-city-2088">Cyberpunk City 2088</option>
+      <option value="space-odyssey-sao-băng-trôi">Space Odyssey: Sao Băng Trôi</option>
+      <option value="hệ-điều-hành-layla-os">Hệ Điều Hành LaylaOS</option>
+      <option value="neon-lab-virus-test-zone">Neon Lab Virus Test Zone</option>
+      <option value="layla-exe">Layla.EXE</option>
+      <option value="blue-screen-of-fic">Blue Screen of Fic</option>
+      <option value="terminal-error-detected">Terminal Error Detected</option>
+      <option value="layla-ai-gone-rogue">Layla.AI Gone Rogue</option>
+      <option value="mâm-ngũ-quả-ngày-tết">Mâm Ngũ Quả Ngày Tết</option>
+      <option value="kem-trộn-toàn-tập">Kem Trộn Toàn Tập</option>
+      <option value="bắc-cực-quánh-ghen">Bắc Cực Quánh Ghen</option>
+      <option value="tuesday">Tuesday</option>
+      <option value="midnight-terminal">Midnight Terminal</option>
+      <option value="cyber-neon">Cyber Neon</option>
+      <option value="highlighter-pink">Highlighter Pink</option>
+      <option value="retro-win95">Retro Win95</option>
+      <option value="giấy-hồng">Giấy Hồng</option>
+      <option value="xã-hội-đen-hoàn-lương">Xã hội đen hoàn lương</option>
+      <option value="tay-tắm-máu">Tay Tắm Máu</option>
+      <option value="cool-ngầu-thị-phi">Cool Ngầu Thị Phi</option>
+    </select>
+    
+    
+    	<label for="sort" class="menu-group-title">Sắp xếp</label>
+    <select id="sort" onchange="renderPage()">
+  <option value="default">Mặc định</option>
+  <option value="az">A → Z</option>
+  <option value="za">Z → A</option>
+  <option value="newest">Mới nhất</option>
+  <option value="oldest">Cũ nhất</option>
+</select>
+
+<label for="tagFilter" class="menu-group-title">Lọc tag</label>
+    <select id="tagFilter">
+      <option value="">-- Chọn tag --</option>
+    </select>
+    
+  </div>
+    
+      </div>
+</div>
+</div>
+    </div>
+  </div>
+
+
+  
+  <div class="pagination" id="paginationTop">
+    <button id="prevBtnTop">⬅️</button>
+    <input type="number" id="pageInputTop" min="1" style="width:60px">
+    <button id="nextBtnTop">➡️</button>
+  </div>
+
+  <main class="story-list" id="storyGrid">Đang tải...</main>
+
+  <div class="pagination">
+    <button id="prevBtn">⬅️</button>
+    <input type="number" id="pageInput" min="1" style="width:60px">
+    <button id="nextBtn">➡️</button>
+  </div>
+
+  <footer>© 2025 Laylaland</footer>
+
+  <script type="module">
+    import { rawlist } from './meta/rawlist.js';
+
+// Mở/đóng menu ngay tại chỗ
+const menuBtn = document.getElementById('menuBtn');
+const menuPanel = document.getElementById('menuPanel');
+
+menuBtn.addEventListener('click', () => {
+  menuPanel.classList.toggle('show');
+});
+
+
+    const PER_PAGE = 1;
+    let allStories = rawlist;
+    let currentPage = 1;
+
+    const tagFilter = document.getElementById("tagFilter");
+    const searchInput = document.getElementById("search");
+    const sortSelect = document.getElementById("sort");
+
+    function renderTags() {
+      const tags = new Set();
+      allStories.forEach(s => (s.tags || "").split(",").forEach(t => tags.add(t.trim())));
+      [...tags].sort().forEach(tag => {
+        const opt = document.createElement("option");
+        opt.value = tag;
+        opt.textContent = tag;
+        tagFilter.appendChild(opt);
+      });
+    }
+
+    function getFiltered() {
+      const q = searchInput.value.toLowerCase();
+      const tag = tagFilter.value;
+      const sort = sortSelect.value;
+      let filtered = [...allStories];
+
+      if (tag) filtered = filtered.filter(s => (s.tags || "").includes(tag));
+      if (q) filtered = filtered.filter(s => (s.title || '').toLowerCase().includes(q));
+      if (sort === "az") filtered.sort((a, b) => a.title.localeCompare(b.title));
+      if (sort === "za") filtered.sort((a, b) => b.title.localeCompare(a.title));
+
+      return filtered;
+    }
+
+    function renderPage() {
+      const grid = document.getElementById("storyGrid");
+      const input = document.getElementById("pageInput");
+      const inputTop = document.getElementById("pageInputTop");
+      const stories = getFiltered();
+      const total = Math.ceil(stories.length / PER_PAGE);
+
+      if (currentPage > total) currentPage = total;
+      if (currentPage < 1) currentPage = 1;
+
+      input.value = currentPage;
+      input.max = total;
+      inputTop.value = currentPage;
+      inputTop.max = total;
+
+      document.getElementById("prevBtnTop").disabled = currentPage === 1;
+      document.getElementById("nextBtnTop").disabled = currentPage === total;
+
+      const start = (currentPage - 1) * PER_PAGE;
+      const pageStories = stories.slice(start, start + PER_PAGE);
+
+      grid.innerHTML = pageStories.map((s, i) => {
+        const link = s.path || s.link || "#";
+        return `
+          <div class="fic" onclick="${link !== '#' ? `window.open('${link}', '_blank')` : ''}">
+            <div class="title">${String(start + i + 1).padStart(2, '0')}. ${s.title}</div>
+            ${s.desc ? `<div class="desc">${s.desc}</div>` : ''}
+          </div>
+        `;
+      }).join('');
+
+      document.getElementById("prevBtn").disabled = currentPage === 1;
+      document.getElementById("nextBtn").disabled = currentPage === total;
+      window.scrollTo(0, 0);
+    }
+
+    searchInput.addEventListener("input", () => { currentPage = 1; renderPage(); });
+    sortSelect.addEventListener("change", () => { currentPage = 1; renderPage(); });
+    tagFilter.addEventListener("change", () => { currentPage = 1; renderPage(); });
+
+    document.getElementById("prevBtn").addEventListener("click", () => { currentPage--; renderPage(); });
+    document.getElementById("nextBtn").addEventListener("click", () => { currentPage++; renderPage(); });
+    document.getElementById("prevBtnTop").addEventListener("click", () => { currentPage--; renderPage(); });
+    document.getElementById("nextBtnTop").addEventListener("click", () => { currentPage++; renderPage(); });
+    document.getElementById("pageInputTop").addEventListener("change", (e) => {
+    currentPage = parseInt(e.target.value) || 1;
+    renderPage();
+   });
+
+    renderTags();
+    renderPage();
+  </script>
+</body>
+</html>

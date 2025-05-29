@@ -1,0 +1,199 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 100%;
+  overflow-x: hidden; /* chống tràn ngang */
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to right, #d8f3f9, #f9c5d1);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+/* Header */
+header {
+  background: transparent;
+  text-align: center;
+  padding: 20px 20px 20px;
+  font-size: 44px;
+  font-weight: bold;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Footer */
+footer {
+  margin-top: auto;
+  background: transparent;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+  color: #999;
+  box-shadow: 0px 0px rgba(0,0,0,0);
+}
+
+/* Navbar */
+.navbar {
+  width: 100%;
+  background: transparent;
+  backdrop-filter: blur(10px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 5px 5px;
+  gap: 8px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.top-row {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  padding: 0 10px;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.top-row a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+/* Menu */
+.menu-button {
+  font-size: 24px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+/* Menu phụ */
+.menu-container {
+  position: relative;
+}
+.menu-panel {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%) scaleY(0);
+  transform-origin: top;
+  opacity: 0;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  padding: 10px 20px;
+  flex-direction: column;
+  gap: 15px;
+  z-index: 1001;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+  display: flex;
+  pointer-events: none;
+  min-width: 200px;
+  width: max-content;
+  max-width: 90vw;
+}
+.menu-panel.show {
+  transform: translateX(-50%) scaleY(1);
+  opacity: 1;
+  pointer-events: auto;
+}
+.menu-panel a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  white-space: nowrap;
+}
+.menu-group-title {
+  font-weight: bold;
+  font-size: 14px;
+  color: #888;
+  margin-top: 10px;
+  margin-bottom: -5px;
+}
+
+/* Toolbar */
+.toolbar, .pagination {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  padding: 16px;
+}
+.toolbar input, .toolbar select, .pagination input {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+.toolbar select, .pagination input {
+  text-align: center;
+}
+
+/* Đổi giao diện */
+.mood-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  padding: 1rem;
+}
+.mood-toolbar select {
+  width: 100%;
+  max-width: 100%;
+  font-size: 14px;
+  padding: 6px 10px;
+  margin-top: 6px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background-color: #fafafa;
+  font-family: inherit;
+  text-align: center;
+ }
+
+/* Story list */
+.story-list {
+  padding: 1rem;
+}
+.fic {
+  display: block;
+  margin-bottom: 1.5em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+  background-color: white;
+  border-radius: 8px;
+  padding: 16px;
+  transition: all 0.3s ease;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+}
+.fic:last-child {
+  border-bottom: none;
+}
+.fic:hover {
+  transform: scale(1.01);
+  transition: 0.3s ease;
+}
+.title {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #7b2cbf;
+}
+.desc {
+  margin-top: 0.5em;
+  color: #000000;
+  font-size: 15px;
+  white-space: pre-wrap;
+  line-height: 1.4;
+  word-break: break-word;
+}
