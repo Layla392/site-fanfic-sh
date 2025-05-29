@@ -1,0 +1,4136 @@
+/* Mood: Origin 1 */
+.mood-origin-1 body {
+  background: linear-gradient(to right, #d8f3f9, #f9c5d1);
+  font-family: 'Poppins', sans-serif;
+}
+.mood-origin-1 header {
+  background: white;
+}
+.mood-origin-1 footer {
+  background: white;
+  color: #999;
+}
+.mood-origin-1 .fic {
+  background-color: white;
+}
+.mood-origin-1 .title {
+  color: #7b2cbf;
+}
+.mood-origin-1 .desc {
+  color: #555;
+}
+
+/* Mood: Origin 2 */
+.mood-origin-2 body {
+  background: linear-gradient(to right, #fff0e5, #ffe2f0);
+  font-family: 'Poppins', sans-serif;
+}
+.mood-origin-2 header {
+  background: white;
+}
+.mood-origin-2 footer {
+  background: white;
+  color: #999;
+}
+.mood-origin-2 .fic {
+  background-color: white;
+}
+.mood-origin-2 .title {
+  color: #d6336c;
+}
+.mood-origin-2 .desc {
+  color: #555;
+}
+
+/* Mood: Origin 3 */
+.mood-origin-3 body {
+  background: linear-gradient(135deg, #d8f3f9, #e0c3fc, #f9c5d1);
+  font-family: 'Poppins', sans-serif;
+}
+.mood-origin-3 header {
+  background: white;
+}
+.mood-origin-3 footer {
+  background: white;
+  color: #999;
+}
+.mood-origin-3 .fic {
+  background-color: white;
+}
+.mood-origin-3 .title {
+  color: #7b2cbf;
+}
+.mood-origin-3 .desc {
+  color: #555;
+}
+
+/* Mood: Pixel */
+.mood-pixel body {
+  background: #222;
+  color: #39ff14;
+  font-family: 'Press Start 2P', monospace !important;
+  line-height: 1.6;
+  letter-spacing: 2px;
+}
+.mood-pixel header {
+  background: #000;
+  color: #39ff14;
+  font-size: 30px;
+}
+.mood-pixel header h1 {
+  font-size: 24px;
+}
+.mood-pixel header p {
+  font-size: 8px;
+}
+.mood-pixel footer {
+  background: #000;
+  color: #39ff14;
+  font-size: 14px;
+}
+.mood-pixel .fic {
+  background: #111;
+  border: 1px solid #39ff14;
+  border-left: 4px solid #39ff14;
+}
+.mood-pixel .title {
+  color: #00e676;
+  font-size: 14px;
+}
+.mood-pixel .desc {
+  color: #9cff57;
+  font-size: 12px;
+}
+.mood-pixel .group h2 {
+  color: #39ff14;
+  font-size: 15px;
+  font-family: 'Press Start 2P', monospace;
+  border-bottom: 2px dashed #39ff14;
+}
+.mood-pixel .page a {
+  background: black;
+  color: #39ff14;
+  border: 1px solid #39ff14;
+  font-size: 12px;
+}
+.mood-pixel .page a:hover {
+  background: #39ff14;
+  color: black;
+}
+.mood-pixel .feature {
+  background: #111;
+  border: 1px solid #39ff14;
+  font-size: 12px;
+}
+
+/* Mood: Galaxy */
+.mood-galaxy body {
+  background: radial-gradient(circle, #1a237e, #0d47a1, #000000);
+  color: #00e676;
+  font-family: 'Orbitron', sans-serif;
+}
+.mood-galaxy header {
+  background: #0d47a1;
+  color: #bbdefb;
+  font-size: 30px;
+}
+.mood-galaxy footer {
+  background: #1a237e;
+  color: #90caf9;
+  font-size: 11px;
+}
+.mood-galaxy .fic {
+  background: #121212;
+  border: 1px solid #00e676;
+  border-left: 4px solid #00e676;
+}
+.mood-galaxy .title {
+  color: #69f0ae;
+}
+.mood-galaxy .desc {
+  color: #b2ebf2;
+}
+.mood-galaxy .group h2 {
+  color: #69f0ae;
+  border-bottom: 2px dashed #00e676;
+}
+.mood-galaxy .page a {
+  background: #00e676;
+  color: #000;
+}
+.mood-galaxy .page a:hover {
+  background: #69f0ae;
+  color: #000;
+}
+
+/* Mood: Classic */
+.mood-classic body {
+  background: #fefefe;
+  color: #2c2c2c;
+  font-family: 'Georgia', serif;
+}
+.mood-classic header {
+  background: #ececec;
+  color: #222;
+}
+.mood-classic footer {
+  background: #f5f5f5;
+  color: #444;
+}
+.mood-classic .fic {
+  background: #ffffff;
+  border: 1px solid #999;
+  border-left: 4px solid #999;
+}
+.mood-classic .title {
+  color: #2c2c2c;
+}
+.mood-classic .desc {
+  color: #555;
+}
+.mood-classic .group h2 {
+  color: #2c2c2c;
+  font-family: 'Georgia', serif;
+  border-bottom: 2px solid #ccc;
+}
+.mood-classic .page a {
+  background: #444;
+  color: white;
+}
+.mood-classic .page a:hover {
+  background: #222;
+  color: #fff;
+}
+.mood-classic .feature {
+  background: #ffffff;
+  border: 1px solid #999;
+}
+
+/* Mood: Trà đào nắng nhẹ */
+.mood-trà-đào-nắng-nhẹ body {
+  font-family: 'Merriweather', serif;
+  color: #cc5500;
+  background: linear-gradient(120deg, #fff0e6, #ffe6cc);
+}
+.mood-trà-đào-nắng-nhẹ header {
+  background: #fff8f2;
+  color: #cc6633;
+}
+.mood-trà-đào-nắng-nhẹ .fic {
+  background: #fff5ee;
+  border: 1px solid #ffb380;
+  border-left: 6px solid #ffb380;
+}
+.mood-trà-đào-nắng-nhẹ .title {
+  color: #cc5500;
+}
+.mood-trà-đào-nắng-nhẹ footer {
+  background: #fff8f2;
+  color: #cc6633;
+}
+.mood-trà-đào-nắng-nhẹ .group h2 {
+  color: #cc5500;
+  font-family: 'Merriweather', serif;
+  border-bottom: 2px solid #ffb380;
+}
+.mood-trà-đào-nắng-nhẹ .page a {
+  background: #ffb380;
+  color: #5c1f00;
+}
+.mood-trà-đào-nắng-nhẹ .page a:hover {
+  background: #ffaa66;
+  color: white;
+}
+
+/* Mood: Galaxy Neon */
+.mood-galaxy-neon body {
+  font-family: 'Orbitron', sans-serif;
+  background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+  color: #70d6ff;
+}
+.mood-galaxy-neon header {
+  background: #1a1a2e;
+  color: #70d6ff;
+  font-size: 30px;
+}
+.mood-galaxy-neon footer {
+  background: #1a1a2e;
+  color: #70d6ff;
+  font-size: 11px;
+}
+.mood-galaxy-neon .fic {
+  background: #1f1f3b;
+  border: 1px solid #70d6ff;
+}
+.mood-galaxy-neon .title {
+  color: #70d6ff;
+}
+.mood-galaxy-neon .desc {
+  color: #99ccff;
+}
+.mood-galaxy-neon .group h2 {
+  color: #70d6ff;
+  font-family: 'Orbitron', sans-serif;
+  border-bottom: 2px dashed #70d6ff;
+}
+.mood-galaxy-neon .page a {
+  background: #70d6ff;
+  color: #1a1a2e;
+}
+.mood-galaxy-neon .page a:hover {
+  background: #99e6ff;
+  color: #000;
+}
+
+/* Mood: Sách cổ thư viện */
+.mood-sách-cổ-thư-viện body {
+  font-family: 'EB Garamond', serif;
+  background: linear-gradient(90deg, #f5f0e6, #e0d6c1);
+  color: #5e3d2c;
+}
+.mood-sách-cổ-thư-viện header {
+  background: #d8cbb0;
+  color: #4b3621;
+}
+.mood-sách-cổ-thư-viện header h1 {
+  font-size: 50px;
+}
+.mood-sách-cổ-thư-viện header p {
+  font-size: 12px;
+}
+.mood-sách-cổ-thư-viện footer {
+  background: #d8cbb0;
+  color: #4b3621;
+  font-size: 16px;
+}
+.mood-sách-cổ-thư-viện .fic {
+  background: #fdfaf4;
+  border: 1px solid #b19970;
+  border-left: 4px solid #b19970;
+}
+.mood-sách-cổ-thư-viện .title {
+  color: #5e3d2c;
+}
+.mood-sách-cổ-thư-viện .desc {
+  color: #663300;
+}
+.mood-sách-cổ-thư-viện .group h2 {
+  color: #5e3d2c;
+  border-bottom: 2px dotted #b19970;
+}
+.mood-sách-cổ-thư-viện .page a {
+  background: #b19970;
+  color: #2e1f0e;
+}
+.mood-sách-cổ-thư-viện .page a:hover {
+  background: #a68b63;
+  color: white;
+}
+
+/* Mood: Pixel Retro */
+.mood-pixel-retro body {
+  font-family: 'VT323', monospace;
+  background: linear-gradient(to right, #c1f0f6, #ffe0f0);
+  color: #cc3366;
+}
+.mood-pixel-retro header {
+  background: #fff;
+  color: #111;
+  font-size: 60px;
+}
+.mood-pixel-retro footer {
+  background: #fff;
+  color: #111;
+  font-size: 20px;
+}
+.mood-pixel-retro .fic {
+  background: #fffbe6;
+  border: 2px dashed #ff99cc;
+}
+.mood-pixel-retro .title {
+  color: #cc3366;
+  text-shadow: 1px 1px #fff;
+  font-size: 30px;
+}
+.mood-pixel-retro .desc {
+  font-size: 25px;
+}
+
+/* Mood: Midnight Rose */
+.mood-midnight-rose body {
+  font-family: 'Playfair Display', serif;
+  background: radial-gradient(circle, #1e002b, #000000);
+  color: #ff99dd;
+}
+.mood-midnight-rose header {
+  background: #2a003f;
+  color: #ffb3ec;
+}
+.mood-midnight-rose footer {
+  background: #2a003f;
+  color: #ffb3ec;
+}
+.mood-midnight-rose .fic {
+  background: #2e003f;
+  border: 1px solid #ff9bce;
+}
+.mood-midnight-rose .title {
+  color: #ff99dd;
+}
+.mood-midnight-rose .desc {
+  color: #cc99cc;
+}
+.mood-midnight-rose .group h2 {
+  color: #ff99dd;
+  border-bottom: 2px dashed #ffb3ec;
+}
+.mood-midnight-rose .page a {
+  background: #ff9bce;
+  color: #2e003f;
+}
+.mood-midnight-rose .page a:hover {
+  background: #ffb3ec;
+  color: #000;
+}
+
+/* Mood: Biển sớm mát mẻ */
+.mood-biển-sớm-mát-mẻ body {
+  font-family: 'Quicksand', sans-serif;
+  background: linear-gradient(to bottom, #e0f7fa, #b2ebf2, #80deea);
+  color: #004d40;
+}
+.mood-biển-sớm-mát-mẻ header {
+  background: #ffffff;
+  color: #00796b;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+.mood-biển-sớm-mát-mẻ footer {
+  background: #ffffff;
+  color: #00796b;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+.mood-biển-sớm-mát-mẻ .fic {
+  background: #ffffffcc;
+  border: 1px solid #4dd0e1;
+  border-left: 6px solid #4dd0e1;
+  backdrop-filter: blur(2px);
+}
+.mood-biển-sớm-mát-mẻ .title {
+  color: #00796b;
+}
+.mood-biển-sớm-mát-mẻ .desc {
+  color: #000000;
+}
+.mood-biển-sớm-mát-mẻ .group h2 {
+  color: #00796b;
+  border-bottom: 2px solid #4dd0e1;
+}
+.mood-biển-sớm-mát-mẻ .page a {
+  background: #4dd0e1;
+  color: #004d40;
+}
+.mood-biển-sớm-mát-mẻ .page a:hover {
+  background: #00acc1;
+  color: #ffffff;
+}
+
+/* Mood: Băng tuyết phương Bắc */
+.mood-băng-tuyết-phương-bắc body {
+  font-family: 'Raleway', sans-serif;
+  background: linear-gradient(to bottom, #e0f7fa, #cfd8dc, #b0bec5);
+  color: #1565c0;
+}
+.mood-băng-tuyết-phương-bắc header {
+  background: #ffffff;
+  color: #37474f;
+}
+.mood-băng-tuyết-phương-bắc footer {
+  background: #ffffff;
+  color: #37474f;
+}
+.mood-băng-tuyết-phương-bắc .fic {
+  background: #e3f2fd;
+  border: 1px solid #90caf9;
+  border-left: 4px solid #90caf9;
+}
+.mood-băng-tuyết-phương-bắc .title {
+  color: #1565c0;
+}
+.mood-băng-tuyết-phương-bắc .group h2 {
+  color: #1565c0;
+  border-bottom: 2px solid #90caf9;
+}
+.mood-băng-tuyết-phương-bắc .page a {
+  background: #90caf9;
+  color: #0d47a1;
+}
+.mood-băng-tuyết-phương-bắc .page a:hover {
+  background: #64b5f6;
+  color: #ffffff;
+}
+
+/* Mood: Hồ thu xanh tĩnh */
+.mood-hồ-thu-xanh-tĩnh body {
+  font-family: 'Nunito', sans-serif;
+  background: linear-gradient(to bottom, #e0f2f1, #b2dfdb);
+  color: #004d40;
+}
+.mood-hồ-thu-xanh-tĩnh header {
+  background: #ffffff;
+  color: #00695c;
+}
+.mood-hồ-thu-xanh-tĩnh footer {
+  background: #ffffff;
+  color: #00695c;
+}
+.mood-hồ-thu-xanh-tĩnh .fic {
+  background: #ffffffee;
+  border: 1px solid #4db6ac;
+  border-left: 5px solid #4db6ac;
+}
+.mood-hồ-thu-xanh-tĩnh .title {
+  color: #00796b;
+}
+
+.mood-hồ-thu-xanh-tĩnh .group h2 {
+  color: #00796b;
+  font-family: 'Nunito', sans-serif;
+
+  border-bottom: 2px solid #4db6ac;
+
+
+}
+
+
+.mood-hồ-thu-xanh-tĩnh .page a {
+  background: #4db6ac;
+  color: #00332c;
+  font-family: 'Nunito', sans-serif;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-hồ-thu-xanh-tĩnh .page a:hover {
+  background: #26a69a;
+  color: #ffffff;
+}
+
+/* Mood: Đêm mùa hè yên tĩnh */
+.mood-đêm-mùa-hè-yên-tĩnh body {
+  font-family: 'Lexend', sans-serif;
+  background: linear-gradient(to bottom, #1a237e, #283593, #3f51b5);
+  color: #e8eaf6;
+}
+.mood-đêm-mùa-hè-yên-tĩnh header {
+  background: #1e1e2f;
+  color: #bbdefb;
+}
+.mood-đêm-mùa-hè-yên-tĩnh footer {
+  background: #1e1e2f;
+  color: #bbdefb;
+}
+.mood-đêm-mùa-hè-yên-tĩnh .fic {
+  background: #2c2c3a;
+  border: 1px solid #7986cb;
+  border-left: 4px solid #7986cb;
+}
+.mood-đêm-mùa-hè-yên-tĩnh .title {
+  color: #82b1ff;
+}
+.mood-đêm-mùa-hè-yên-tĩnh .desc {
+  color: #9999cc;
+}
+
+.mood-đêm-mùa-hè-yên-tĩnh .group h2 {
+  color: #82b1ff;
+  font-family: 'Lexend', sans-serif;
+
+  border-bottom: 2px dashed #7986cb;
+
+
+}
+.mood-đêm-mùa-hè-yên-tĩnh .page a {
+  background: #7986cb;
+  color: #1e1e2f;
+  font-family: 'Lexend', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-đêm-mùa-hè-yên-tĩnh .page a:hover {
+  background: #9fa8da;
+  color: #000;
+}
+
+/* Mood: Đêm sáng trăng */
+.mood-đêm-sáng-trăng body {
+  background: linear-gradient(to bottom, #1a237e, #303f9f);
+  color: #e8eaf6;
+}
+.mood-đêm-sáng-trăng header {
+  background: #1e1e2f;
+  color: #bbdefb;
+}
+.mood-đêm-sáng-trăng footer {
+  background: #1e1e2f;
+  color: #bbdefb;
+}
+.mood-đêm-sáng-trăng .fic {
+  background: #1c1c2c;
+  color: #e0e0ff;
+  border: 1px solid #1c1c2c;
+}
+.mood-đêm-sáng-trăng .title {
+  color: #82b1ff;
+}
+.mood-đêm-sáng-trăng .desc {
+  color: #ccccff;
+}
+
+.mood-đêm-sáng-trăng .group h2 {
+  color: #82b1ff;
+  font-family: 'Lexend', sans-serif;
+
+  border-bottom: 2px dashed #ccccff;
+
+
+}
+
+
+.mood-đêm-sáng-trăng .page a {
+  background: #ccccff;
+  color: #1c1c2c;
+  font-family: 'Lexend', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-đêm-sáng-trăng .page a:hover {
+  background: #aab6ff;
+  color: #000;
+}
+
+/* Mood: Sương mù bạc sớm mai */
+.mood-sương-mù-bạc-sớm-mai body {
+  font-family: 'Lato', sans-serif;
+  background: linear-gradient(to bottom, #f1f1f1, #d7e1ec);
+  color: #455a64;
+}
+.mood-sương-mù-bạc-sớm-mai header {
+  background: #e3eaf1;
+  color: #2c3e50;
+}
+.mood-sương-mù-bạc-sớm-mai footer {
+  background: #e3eaf1;
+  color: #2c3e50;
+}
+.mood-sương-mù-bạc-sớm-mai .fic {
+  background: #ffffff;
+  border: 1px solid #90a4ae;
+  border-left: 4px solid #90a4ae;
+}
+.mood-sương-mù-bạc-sớm-mai .title {
+  color: #455a64;
+}
+
+.mood-sương-mù-bạc-sớm-mai .group h2 {
+  color: #455a64;
+  font-family: 'Lato', sans-serif;
+
+  border-bottom: 2px solid #90a4ae;
+
+
+}
+
+
+.mood-sương-mù-bạc-sớm-mai .page a {
+  background: #90a4ae;
+  color: #263238;
+  font-family: 'Lato', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-sương-mù-bạc-sớm-mai .page a:hover {
+  background: #78909c;
+  color: #ffffff;
+}
+
+/* Mood: Xanh bích Thái Lan */
+.mood-xanh-bích-thái-lan body {
+  font-family: 'Open Sans', sans-serif;
+  background: linear-gradient(to bottom, #e0f2f1, #b2ebf2);
+  color: #004d40;
+}
+.mood-xanh-bích-thái-lan header {
+  background: #ffffff;
+  color: #00796b;
+}
+.mood-xanh-bích-thái-lan footer {
+  background: #ffffff;
+  color: #00796b;
+}
+.mood-xanh-bích-thái-lan .fic {
+  background: #ffffffdd;
+  border: 1px solid #26a69a;
+  border-left: 5px solid #26a69a;
+}
+.mood-xanh-bích-thái-lan .title {
+  color: #00897b;
+}
+
+.mood-xanh-bích-thái-lan .group h2 {
+  color: #00897b;
+  font-family: 'Open Sans', sans-serif;
+
+  border-bottom: 2px solid #26a69a;
+
+
+}
+
+
+.mood-xanh-bích-thái-lan .page a {
+  background: #26a69a;
+  color: #004d40;
+  font-family: 'Open Sans', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-xanh-bích-thái-lan .page a:hover {
+  background: #009688;
+  color: #ffffff;
+}
+
+/* Mood: Hồ băng ánh trăng */
+.mood-hồ-băng-ánh-trăng body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  background: linear-gradient(to bottom, #dfe9f3, #cfd8dc);
+  color: #5c6bc0;
+}
+.mood-hồ-băng-ánh-trăng header {
+  background: #f5f5f5;
+  color: #455a64;
+}
+.mood-hồ-băng-ánh-trăng footer {
+  background: #f5f5f5;
+  color: #455a64;
+}
+.mood-hồ-băng-ánh-trăng .fic {
+  background: #ffffff;
+  border: 1px solid #9fa8da;
+  border-left: 4px solid #9fa8da;
+}
+.mood-hồ-băng-ánh-trăng .title {
+  color: #5c6bc0;
+}
+
+.mood-hồ-băng-ánh-trăng .group h2 {
+  color: #5c6bc0;
+  font-family: 'IBM Plex Sans', sans-serif;
+
+  border-bottom: 2px solid #9fa8da;
+
+
+}
+
+
+.mood-hồ-băng-ánh-trăng .page a {
+  background: #9fa8da;
+  color: #1a237e;
+  font-family: 'IBM Plex Sans', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-hồ-băng-ánh-trăng .page a:hover {
+  background: #7986cb;
+  color: #fff;
+}
+
+/* Mood: Mưa xanh trên kính */
+.mood-mưa-xanh-trên-kính body {
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(to bottom, #c8e6e6, #a2c7cf);
+  color: #0d3b66;
+}
+.mood-mưa-xanh-trên-kính header {
+  background: #ffffffee;
+  color: #065a60;
+}
+.mood-mưa-xanh-trên-kính footer {
+  background: #ffffffee;
+  color: #065a60;
+}
+.mood-mưa-xanh-trên-kính .fic {
+  background: #eef7f9;
+  border: 1px solid #4db8c4;
+  border-left: 4px solid #4db8c4;
+}
+.mood-mưa-xanh-trên-kính .title {
+  color: #007c91;
+}
+
+.mood-mưa-xanh-trên-kính .group h2 {
+  color: #007c91;
+  font-family: 'Inter', sans-serif;
+
+  border-bottom: 2px solid #4db8c4;
+
+
+}
+
+
+.mood-mưa-xanh-trên-kính .page a {
+  background: #4db8c4;
+  color: #002b36;
+  font-family: 'Inter', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-mưa-xanh-trên-kính .page a:hover {
+  background: #26a0ad;
+  color: #fff;
+}
+
+/* Mood: Lavender sương lạnh */
+.mood-lavender-sương-lạnh body {
+  font-family: 'Manrope', sans-serif;
+  background: linear-gradient(to bottom, #eae6f7, #c7d2e5);
+  color: #6a4c93;
+}
+.mood-lavender-sương-lạnh header {
+  background: #f8f5ff;
+  color: #5e548e;
+}
+.mood-lavender-sương-lạnh footer {
+  background: #f8f5ff;
+  color: #5e548e;
+}
+.mood-lavender-sương-lạnh .fic {
+  background: #ffffffee;
+  border: 1px solid #b39ddb;
+  border-left: 4px solid #b39ddb;
+}
+.mood-lavender-sương-lạnh .title {
+  color: #6a4c93;
+}
+
+.mood-lavender-sương-lạnh .group h2 {
+  color: #6a4c93;
+  font-family: 'Manrope', sans-serif;
+
+  border-bottom: 2px solid #b39ddb;
+
+
+}
+
+
+.mood-lavender-sương-lạnh .page a {
+  background: #b39ddb;
+  color: #2e2e3a;
+  font-family: 'Manrope', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-lavender-sương-lạnh .page a:hover {
+  background: #9575cd;
+  color: #fff;
+}
+
+/* Mood: Bầu trời Bắc Âu */
+.mood-bầu-trời-bắc-âu body {
+  font-family: 'Noto Sans', sans-serif;
+  background: linear-gradient(to bottom, #e3f2fd, #e0f7fa);
+  color: #1e88e5;
+}
+.mood-bầu-trời-bắc-âu header {
+  background: #ffffff;
+  color: #1565c0;
+}
+.mood-bầu-trời-bắc-âu footer {
+  background: #ffffff;
+  color: #1565c0;
+}
+.mood-bầu-trời-bắc-âu .fic {
+  background: #ffffffcc;
+  border: 1px solid #64b5f6;
+  border-left: 4px solid #64b5f6;
+}
+.mood-bầu-trời-bắc-âu .title {
+  color: #1e88e5;
+}
+
+.mood-bầu-trời-bắc-âu .group h2 {
+  color: #1e88e5;
+  font-family: 'Noto Sans', sans-serif;
+
+  border-bottom: 2px solid #64b5f6;
+
+
+}
+
+
+.mood-bầu-trời-bắc-âu .page a {
+  background: #64b5f6;
+  color: #0d47a1;
+  font-family: 'Noto Sans', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-bầu-trời-bắc-âu .page a:hover {
+  background: #42a5f5;
+  color: #ffffff;
+}
+
+/* Mood: Màn sương thành phố */
+.mood-màn-sương-thành-phố body {
+  font-family: 'Urbanist', sans-serif;
+  background: linear-gradient(to bottom, #eceff1, #cfd8dc);
+  color: #546e7a;
+}
+.mood-màn-sương-thành-phố header {
+  background: #ffffff;
+  color: #455a64;
+}
+.mood-màn-sương-thành-phố footer {
+  background: #ffffff;
+  color: #455a64;
+}
+.mood-màn-sương-thành-phố .fic {
+  background: #f4f6f8;
+  border: 1px solid #90a4ae;
+  border-left: 4px solid #90a4ae;
+}
+.mood-màn-sương-thành-phố .title {
+  color: #546e7a;
+}
+
+.mood-màn-sương-thành-phố .group h2 {
+  color: #546e7a;
+  font-family: 'Urbanist', sans-serif;
+
+  border-bottom: 2px solid #90a4ae;
+
+
+}
+
+
+.mood-màn-sương-thành-phố .page a {
+  background: #90a4ae;
+  color: #263238;
+  font-family: 'Urbanist', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-màn-sương-thành-phố .page a:hover {
+  background: #78909c;
+  color: #ffffff;
+}
+
+/* Mood: Gió đồng thảo nguyên lạnh */
+.mood-gió-đồng-thảo-nguyên-lạnh body {
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  background: linear-gradient(to bottom, #e6f2e6, #c5d8c5);
+  color: #2e3e2e;
+}
+.mood-gió-đồng-thảo-nguyên-lạnh header {
+  background: #f4fdf4;
+  color: #446644;
+}
+.mood-gió-đồng-thảo-nguyên-lạnh footer {
+  background: #f4fdf4;
+  color: #446644;
+}
+.mood-gió-đồng-thảo-nguyên-lạnh .fic {
+  background: #ffffff;
+  border: 1px solid #a5d6a7;
+  border-left: 4px solid #a5d6a7;
+}
+.mood-gió-đồng-thảo-nguyên-lạnh .title {
+  color: #388e3c;
+}
+
+.mood-gió-đồng-thảo-nguyên-lạnh .group h2 {
+  color: #388e3c;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+
+  border-bottom: 2px solid #a5d6a7;
+
+
+}
+
+
+.mood-gió-đồng-thảo-nguyên-lạnh .page a {
+  background: #a5d6a7;
+  color: #1b5e20;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-gió-đồng-thảo-nguyên-lạnh .page a:hover {
+  background: #81c784;
+  color: #fff;
+}
+
+/* Mood: Sáng sớm sau mưa */
+.mood-sáng-sớm-sau-mưa body {
+  font-family: 'Prompt', sans-serif;
+  background: linear-gradient(to bottom, #e0f2f1, #f1f8e9);
+  color: #2e7d32;
+}
+.mood-sáng-sớm-sau-mưa header {
+  background: #ffffff;
+  color: #388e8e;
+}
+.mood-sáng-sớm-sau-mưa footer {
+  background: #ffffff;
+  color: #388e8e;
+}
+.mood-sáng-sớm-sau-mưa .fic {
+  background: #ffffffcc;
+  border: 1px solid #81c784;
+  border-left: 4px solid #81c784;
+}
+.mood-sáng-sớm-sau-mưa .title {
+  color: #2e7d32;
+}
+
+.mood-sáng-sớm-sau-mưa .group h2 {
+  color: #2e7d32;
+  font-family: 'Prompt', sans-serif;
+
+  border-bottom: 2px solid #81c784;
+
+
+}
+
+
+.mood-sáng-sớm-sau-mưa .page a {
+  background: #81c784;
+  color: #1b5e20;
+  font-family: 'Prompt', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-sáng-sớm-sau-mưa .page a:hover {
+  background: #66bb6a;
+  color: #ffffff;
+}
+
+/* Mood: Gió lặng ngoài hiên */
+.mood-gió-lặng-ngoài-hiên body {
+  font-family: 'Source Sans Pro', sans-serif;
+  background: linear-gradient(to bottom, #f5f5f5, #e0e0e0);
+  color: #333;
+}
+.mood-gió-lặng-ngoài-hiên header {
+  background: #fafafa;
+  color: #424242;
+}
+.mood-gió-lặng-ngoài-hiên footer {
+  background: #fafafa;
+  color: #424242;
+}
+.mood-gió-lặng-ngoài-hiên .fic {
+  background: #ffffff;
+  border: 1px solid #bdbdbd;
+  border-left: 4px solid #bdbdbd;
+}
+.mood-gió-lặng-ngoài-hiên .title {
+  color: #455a64;
+}
+
+.mood-gió-lặng-ngoài-hiên .group h2 {
+  color: #455a64;
+  font-family: 'Source Sans Pro', sans-serif;
+
+  border-bottom: 2px solid #bdbdbd;
+
+
+}
+
+
+.mood-gió-lặng-ngoài-hiên .page a {
+  background: #bdbdbd;
+  color: #212121;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-gió-lặng-ngoài-hiên .page a:hover {
+  background: #9e9e9e;
+  color: #ffffff;
+}
+
+/* Mood: Sân trường hoài niệm */
+.mood-sân-trường-hoài-niệm body {
+  font-family: 'Hind', sans-serif;
+  background: linear-gradient(to bottom, #fffde7, #e8f5e9);
+  color: #4e342e;
+}
+.mood-sân-trường-hoài-niệm header {
+  background: #ffffff;
+  color: #5d4037;
+}
+.mood-sân-trường-hoài-niệm footer {
+  background: #ffffff;
+  color: #5d4037;
+}
+.mood-sân-trường-hoài-niệm .fic {
+  background: #ffffffee;
+  border: 1px solid #ffe082;
+  border-left: 4px solid #ffe082;
+}
+.mood-sân-trường-hoài-niệm .title {
+  color: #6d4c41;
+}
+
+.mood-sân-trường-hoài-niệm .group h2 {
+  color: #6d4c41;
+  font-family: 'Hind', sans-serif;
+
+  border-bottom: 2px solid #ffe082;
+
+
+}
+
+
+.mood-sân-trường-hoài-niệm .page a {
+  background: #ffe082;
+  color: #4e342e;
+  font-family: 'Hind', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-sân-trường-hoài-niệm .page a:hover {
+  background: #ffca28;
+  color: #fff;
+}
+
+/* Mood: Cát sông dịu nhẹ */
+.mood-cát-sông-dịu-nhẹ body {
+  background: linear-gradient(to right, #fdf6e3, #e0dcd3);
+  color: #3e2723;
+  font-family: 'Hind', sans-serif;
+}
+.mood-cát-sông-dịu-nhẹ header {
+  background: #fbe9e7;
+  color: #5d4037;
+}
+.mood-cát-sông-dịu-nhẹ footer {
+  background: #fbe9e7;
+  color: #5d4037;
+}
+.mood-cát-sông-dịu-nhẹ .fic {
+  background-color: #fffdf8;
+  border: 1px solid #fbc02d;
+  border-left: 5px solid #fbc02d;
+}
+.mood-cát-sông-dịu-nhẹ .title {
+  color: #8d6e63;
+}
+
+.mood-cát-sông-dịu-nhẹ .group h2 {
+  color: #8d6e63;
+  font-family: 'Hind', sans-serif;
+
+  border-bottom: 2px solid #fbc02d;
+
+
+}
+
+
+.mood-cát-sông-dịu-nhẹ .page a {
+  background: #fbc02d;
+  color: #3e2723;
+  font-family: 'Hind', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-cát-sông-dịu-nhẹ .page a:hover {
+  background: #f9a825;
+  color: #fff;
+}
+
+/* Mood: Trắng bạc hiện đại */
+.mood-trắng-bạc-hiện-đại body {
+  background: linear-gradient(to right, #f5f5f5, #e0e0e0);
+  color: #212121;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.mood-trắng-bạc-hiện-đại header {
+  background: #ffffff;
+  color: #424242;
+}
+.mood-trắng-bạc-hiện-đại footer {
+  background: #ffffff;
+  color: #424242;
+}
+.mood-trắng-bạc-hiện-đại .fic {
+  background-color: #ffffff;
+  border: 1px solid #bdbdbd;
+  border-left: 5px solid #bdbdbd;
+}
+.mood-trắng-bạc-hiện-đại .title {
+  color: #424242;
+}
+
+.mood-trắng-bạc-hiện-đại .group h2 {
+  color: #424242;
+  font-family: 'Source Sans Pro', sans-serif;
+
+  border-bottom: 2px solid #bdbdbd;
+
+
+}
+.mood-trắng-bạc-hiện-đại .page a {
+  background: #bdbdbd;
+  color: #212121;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-trắng-bạc-hiện-đại .page a:hover {
+  background: #9e9e9e;
+  color: #ffffff;
+}
+
+/* Mood: Trắng bạc + Accent xanh ngọc nhạt */
+.mood-trắng-bạc-accent-xanh-ngọc-nhạt body {
+  background: linear-gradient(to bottom, #f7f9fb, #e3f2f1);
+  color: #00796b;
+}
+.mood-trắng-bạc-accent-xanh-ngọc-nhạt header {
+  background: #ffffff;
+  color: #424242;
+}
+.mood-trắng-bạc-accent-xanh-ngọc-nhạt footer {
+  background: #ffffff;
+  color: #424242;
+}
+.mood-trắng-bạc-accent-xanh-ngọc-nhạt .fic {
+  background-color: #ffffff;
+  border: 1px solid #4dd0e1;
+  border-left: 4px solid #4dd0e1;
+}
+.mood-trắng-bạc-accent-xanh-ngọc-nhạt .title {
+  color: #00796b;
+}
+
+.mood-trắng-bạc-accent-xanh-ngọc-nhạt .group h2 {
+  color: #00796b;
+  font-family: 'Source Sans Pro', sans-serif;
+
+  border-bottom: 2px solid #4dd0e1;
+
+
+}
+
+
+.mood-trắng-bạc-accent-xanh-ngọc-nhạt .page a {
+  background: #4dd0e1;
+  color: #004d40;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-trắng-bạc-accent-xanh-ngọc-nhạt .page a:hover {
+  background: #00acc1;
+  color: #ffffff;
+}
+
+/* Mood: Trắng ấm nhẹ, pha cam nhạt */
+.mood-trắng-ấm-nhẹ-pha-cam-nhạt body {
+  background: linear-gradient(to bottom, #fffefb, #fff3e0);
+  color: #ef6c00;
+}
+.mood-trắng-ấm-nhẹ-pha-cam-nhạt header {
+  background: #ffffff;
+  color: #424242;
+}
+.mood-trắng-ấm-nhẹ-pha-cam-nhạt footer {
+  background: #ffffff;
+  color: #424242;
+}
+.mood-trắng-ấm-nhẹ-pha-cam-nhạt .fic {
+  background-color: #ffffff;
+  border: 1px solid #ffb74d;
+  border-left: 4px solid #ffb74d;
+}
+.mood-trắng-ấm-nhẹ-pha-cam-nhạt .title {
+  color: #ef6c00;
+}
+
+.mood-trắng-ấm-nhẹ-pha-cam-nhạt .group h2 {
+  color: #ef6c00;
+  font-family: 'Source Sans Pro', sans-serif;
+
+  border-bottom: 2px solid #ffb74d;
+
+
+}
+
+
+.mood-trắng-ấm-nhẹ-pha-cam-nhạt .page a {
+  background: #ffb74d;
+  color: #4e342e;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-trắng-ấm-nhẹ-pha-cam-nhạt .page a:hover {
+  background: #ffa726;
+  color: #fff;
+}
+
+/* Mood: Mây hoàng hôn */
+.mood-mây-hoàng-hôn body {
+  background: linear-gradient(to right, #f3e5f5, #ffe0b2);
+  color: #8e24aa;
+  font-family: 'Karla', sans-serif;
+}
+.mood-mây-hoàng-hôn header {
+  background: #fce4ec;
+  color: #6a1b9a;
+}
+.mood-mây-hoàng-hôn footer {
+  background: #fce4ec;
+  color: #6a1b9a;
+}
+.mood-mây-hoàng-hôn .fic {
+  background-color: #fff8e1;
+  border: 1px solid #ce93d8;
+  border-left: 5px solid #ce93d8;
+}
+.mood-mây-hoàng-hôn .title {
+  color: #8e24aa;
+}
+
+.mood-mây-hoàng-hôn .group h2 {
+  color: #8e24aa;
+  font-family: 'Karla', sans-serif;
+
+  border-bottom: 2px solid #ce93d8;
+
+
+}
+
+
+.mood-mây-hoàng-hôn .page a {
+  background: #ce93d8;
+  color: #4e342e;
+  font-family: 'Karla', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-mây-hoàng-hôn .page a:hover {
+  background: #ba68c8;
+  color: #fff;
+}
+
+/* Mood: Tàng cây xanh bạc hà */
+.mood-tàng-cây-xanh-bạc-hà body {
+  background: linear-gradient(to right, #e0f2f1, #f1f8e9);
+  color: #2e7d32;
+  font-family: 'Rubik', sans-serif;
+}
+.mood-tàng-cây-xanh-bạc-hà header {
+  background: #ffffff;
+  color: #388e3c;
+}
+.mood-tàng-cây-xanh-bạc-hà footer {
+  background: #ffffff;
+  color: #388e3c;
+}
+.mood-tàng-cây-xanh-bạc-hà .fic {
+  background-color: #ffffff;
+  border: 1px solid #81c784;
+  border-left: 5px solid #81c784;
+}
+.mood-tàng-cây-xanh-bạc-hà .title {
+  color: #2e7d32;
+}
+
+.mood-tàng-cây-xanh-bạc-hà .group h2 {
+  color: #2e7d32;
+  font-family: 'Rubik', sans-serif;
+
+  border-bottom: 2px solid #81c784;
+
+
+}
+
+
+.mood-tàng-cây-xanh-bạc-hà .page a {
+  background: #81c784;
+  color: #1b5e20;
+  font-family: 'Rubik', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-tàng-cây-xanh-bạc-hà .page a:hover {
+  background: #66bb6a;
+  color: #ffffff;
+}
+
+/* Mood: Nắng sớm ban công */
+.mood-nắng-sớm-ban-công body {
+  background: linear-gradient(to bottom, #fffde7, #fff3e0);
+  color: #ef6c00;
+  font-family: 'Karla', sans-serif;
+}
+.mood-nắng-sớm-ban-công header {
+  background: #fff8e1;
+  color: #6d4c41;
+}
+.mood-nắng-sớm-ban-công footer {
+  background: #fff8e1;
+  color: #6d4c41;
+}
+.mood-nắng-sớm-ban-công .fic {
+  background-color: #ffffff;
+  border: 1px solid #ffcc80;
+  border-left: 4px solid #ffcc80;
+}
+.mood-nắng-sớm-ban-công .title {
+  color: #ef6c00;
+}
+
+.mood-nắng-sớm-ban-công .group h2 {
+  color: #ef6c00;
+  font-family: 'Karla', sans-serif;
+
+  border-bottom: 2px solid #ffcc80;
+
+
+}
+
+
+.mood-nắng-sớm-ban-công .page a {
+  background: #ffcc80;
+  color: #4e342e;
+  font-family: 'Karla', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-nắng-sớm-ban-công .page a:hover {
+  background: #ffa726;
+  color: #ffffff;
+}
+
+/* Mood: Trăng non qua lưới */
+.mood-trăng-non-qua-lưới body {
+  background: linear-gradient(to right, #f0f4f8, #d7dde6);
+  color: #2c3e50;
+  font-family: 'Lato', sans-serif;
+}
+.mood-trăng-non-qua-lưới header {
+  background: #ffffff;
+  color: #37474f;
+}
+.mood-trăng-non-qua-lưới footer {
+  background: #ffffff;
+  color: #37474f;
+}
+.mood-trăng-non-qua-lưới .fic {
+  background-color: #ffffff;
+  border: 1px solid #90a4ae;
+  border-left: 4px solid #90a4ae;
+}
+.mood-trăng-non-qua-lưới .title {
+  color: #546e7a;
+}
+
+.mood-trăng-non-qua-lưới .group h2 {
+  color: #546e7a;
+  font-family: 'Lato', sans-serif;
+
+  border-bottom: 2px solid #90a4ae;
+
+
+}
+
+
+.mood-trăng-non-qua-lưới .page a {
+  background: #90a4ae;
+  color: #263238;
+  font-family: 'Lato', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-trăng-non-qua-lưới .page a:hover {
+  background: #78909c;
+  color: #ffffff;
+}
+
+/* Mood: Gió thổi đồng lau */
+.mood-gió-thổi-đồng-lau body {
+  background: linear-gradient(to right, #f5f5dc, #e0f2f1);
+  color: #4e342e;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.mood-gió-thổi-đồng-lau header {
+  background: #fffde7;
+  color: #5d4037;
+}
+.mood-gió-thổi-đồng-lau footer {
+  background: #fffde7;
+  color: #5d4037;
+}
+.mood-gió-thổi-đồng-lau .fic {
+  background-color: #ffffff;
+  border: 1px solid #a1887f;
+  border-left: 4px solid #a1887f;
+}
+.mood-gió-thổi-đồng-lau .title {
+  color: #795548;
+}
+
+.mood-gió-thổi-đồng-lau .group h2 {
+  color: #795548;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+
+  border-bottom: 2px solid #a1887f;
+
+
+}
+
+
+.mood-gió-thổi-đồng-lau .page a {
+  background: #a1887f;
+  color: #3e2723;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-gió-thổi-đồng-lau .page a:hover {
+  background: #8d6e63;
+  color: #fff;
+}
+
+/* Mood: Pixel Kẹo Bông */
+.mood-pixel-kẹo-bông body {
+  background: linear-gradient(to bottom, #fce4ec, #e1f5fe);
+  font-family: 'Press Start 2P', monospace !important;
+  line-height: 1.6;
+  letter-spacing: 2px;
+  color: #880e4f;
+}
+.mood-pixel-kẹo-bông header {
+  background: #ffffff;
+  color: #d81b60;
+  font-size: 30px;
+}
+.mood-pixel-kẹo-bông footer {
+  background: #ffffff;
+  color: #d81b60;
+  font-size: 14px;
+}
+.mood-pixel-kẹo-bông .fic {
+  background: #fff9fb;
+  border: 1px solid #f06292;
+  border-left: 4px solid #f06292;
+}
+.mood-pixel-kẹo-bông .title {
+  color: #d81b60;
+  font-size: 14px;
+}
+.mood-pixel-kẹo-bông .desc {
+  font-size: 12px;
+}
+
+/* Mood: Pixel Xanh Neon */
+.mood-pixel-xanh-neon body {
+  background: #000000;
+  font-family: 'VT323', monospace;
+  color: #00ff99;
+}
+.mood-pixel-xanh-neon header {
+  background: #111111;
+  color: #00ffaa;
+  font-size: 60px;
+}
+.mood-pixel-xanh-neon footer {
+  background: #111111;
+  color: #00ffaa;
+  font-size: 20px;
+}
+.mood-pixel-xanh-neon .fic {
+  background: #111;
+  border: 1px solid #00ffaa;
+  border-left: 4px solid #00ffaa;
+}
+.mood-pixel-xanh-neon .title {
+  color: #00ffcc;
+  font-size: 30px;
+}
+.mood-pixel-xanh-neon .desc {
+  color: #ccffff;
+  font-size: 25px;
+}
+
+/* Mood: Pixel Màn Hình Gameboy */
+.mood-pixel-màn-hình-gameboy body {
+  background: #cfd8ae;
+  font-family: 'Courier New', monospace;
+  color: #5d4037;
+}
+.mood-pixel-màn-hình-gameboy header {
+  background: #dde5b6;
+  color: #4e342e;
+}
+.mood-pixel-màn-hình-gameboy footer {
+  background: #dde5b6;
+  color: #4e342e;
+  font-size: 18px;
+}
+.mood-pixel-màn-hình-gameboy .fic {
+  background: #f0f4c3;
+  border: 1px solid #a4b367;
+  border-left: 4px solid #a4b367;
+}
+.mood-pixel-màn-hình-gameboy .title {
+  font-size: 25px;
+}
+.mood-pixel-màn-hình-gameboy .desc {
+  font-size: 20px;
+}
+
+/* Mood: Pixel Minty Sky */
+.mood-pixel-minty-sky body {
+  background: linear-gradient(to bottom, #d0f0ec, #f3e5f5);
+  font-family: 'Press Start 2P', monospace !important;
+  color: #4a148c;
+  line-height: 1.6;
+  letter-spacing: 2px;
+}
+.mood-pixel-minty-sky header {
+  background: #ffffff;
+  color: #6a1b9a;
+  font-size: 30px;
+}
+.mood-pixel-minty-sky footer {
+  background: #ffffff;
+  color: #6a1b9a;
+  font-size: 14px;
+}
+.mood-pixel-minty-sky .fic {
+  background: #ffffff;
+  border: 1px solid #ce93d8;
+  border-left: 5px solid #ce93d8;
+}
+.mood-pixel-minty-sky .title {
+  color: #6a1b9a;
+  font-size: 14px;
+}
+.mood-pixel-minty-sky .desc {
+  font-size: 12px;
+}
+
+/* Mood: Pixel Hacker Terminal */
+.mood-pixel-hacker-terminal body {
+  background: #000000;
+  font-family: 'VT323', monospace;
+  color: #00ff99;
+}
+.mood-pixel-hacker-terminal header {
+  background: #111;
+  color: #00ffcc;
+  font-size: 60px;
+}
+.mood-pixel-hacker-terminal footer {
+  background: #111;
+  color: #00ffcc;
+  font-size: 20px;
+}
+.mood-pixel-hacker-terminal .fic {
+  background: #111;
+  border: 1px solid #00ffaa;
+  border-left: 4px solid #00ffaa;
+}
+.mood-pixel-hacker-terminal .title {
+  color: #00ffe0;
+  font-size: 30px;
+}
+.mood-pixel-hacker-terminal .desc {
+  color: #ccffff;
+  font-size: 25px;
+}
+
+/* Mood: Pixel Lavender Retro */
+.mood-pixel-lavender-retro body {
+  background: linear-gradient(to bottom, #f3e5f5, #fff8e1);
+  font-family: 'Press Start 2P', monospace !important;
+  color: #4a148c;
+  line-height: 1.6;
+  letter-spacing: 2px;
+}
+.mood-pixel-lavender-retro header {
+  background: #fff;
+  color: #6a1b9a;
+  font-size: 30px;
+}
+.mood-pixel-lavender-retro footer {
+  background: #fff;
+  color: #6a1b9a;
+  font-size: 14px;
+}
+.mood-pixel-lavender-retro .fic {
+  background: #fff9fb;
+  border: 1px solid #ba68c8;
+  border-left: 5px solid #ba68c8;
+}
+.mood-pixel-lavender-retro .title {
+  font-size: 14px;
+}
+.mood-pixel-lavender-retro .desc {
+  font-size: 12px;
+}
+
+/* Mood: Pixel Clay Console */
+.mood-pixel-clay-console body {
+  background: linear-gradient(to bottom, #d7ccc8, #efebe9);
+  font-family: 'VT323', monospace;
+  color: #3e2723;
+}
+.mood-pixel-clay-console header {
+  background: #efebe9;
+  font-size: 60px;
+}
+.mood-pixel-clay-console footer {
+  background: #efebe9;
+  color: #5d4037;
+  font-size: 20px;
+}
+.mood-pixel-clay-console .fic {
+  background: #ffffff;
+  border: 1px solid #a1887f;
+  border-left: 4px solid #a1887f;
+}
+.mood-pixel-clay-console .title {
+  color: #6d4c41;
+  font-size: 30px;
+}
+.mood-pixel-clay-console .desc {
+  color: #4e342e;
+  font-size: 25px;
+}
+
+/* Mood: Trắng kem lễ đường */
+.mood-trắng-kem-lễ-đường body {
+  background: linear-gradient(to bottom, #fffefc, #f9f4ee);
+  color: #4e342e;
+}
+.mood-trắng-kem-lễ-đường header {
+  background: #fffaf0;
+  color: #6d4c41;
+}
+.mood-trắng-kem-lễ-đường footer {
+  background: #fffaf0;
+  color: #6d4c41;
+}
+.mood-trắng-kem-lễ-đường .fic {
+  background: #ffffff;
+  border: 1px solid #ffcc80;
+  border-left: 4px solid #ffcc80;
+}
+.mood-trắng-kem-lễ-đường .title {
+  color: #e64a19;
+}
+
+.mood-trắng-kem-lễ-đường .group h2 {
+  color: #e64a19;
+  font-family: 'Source Sans Pro', sans-serif;
+
+  border-bottom: 2px solid #ffcc80;
+
+
+}
+
+
+.mood-trắng-kem-lễ-đường .page a {
+  background: #ffcc80;
+  color: #4e342e;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-trắng-kem-lễ-đường .page a:hover {
+  background: #ffa726;
+  color: #fff;
+}
+
+/* Mood: Hồng phấn chào dâu */
+.mood-hồng-phấn-chào-dâu body {
+  background: linear-gradient(to bottom, #fdeff2, #f9f3f8);
+  color: #880e4f;
+}
+.mood-hồng-phấn-chào-dâu header {
+  background: #ffffff;
+  color: #ad1457;
+}
+.mood-hồng-phấn-chào-dâu footer {
+  background: #ffffff;
+  color: #ad1457;
+}
+.mood-hồng-phấn-chào-dâu .fic {
+  background: #fff0f5;
+  border: 1px solid #f06292;
+  border-left: 4px solid #f06292;
+}
+.mood-hồng-phấn-chào-dâu .title {
+  color: #c2185b;
+}
+
+.mood-hồng-phấn-chào-dâu .group h2 {
+  color: #c2185b;
+  border-bottom: 2px solid #f06292;
+}
+.mood-hồng-phấn-chào-dâu .page a {
+  background: #f06292;
+  color: #ffffff;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-hồng-phấn-chào-dâu .page a:hover {
+  background: #ec407a;
+  color: #ffffff;
+}
+
+/* Mood: Đám cưới hoàng gia */
+.mood-đám-cưới-hoàng-gia body {
+  background: linear-gradient(to bottom, #f3e5f5, #fffde7);
+  color: #4a148c;
+}
+.mood-đám-cưới-hoàng-gia header {
+  background: #fff;
+  color: #6a1b9a;
+}
+.mood-đám-cưới-hoàng-gia footer {
+  background: #fff;
+  color: #6a1b9a;
+}
+.mood-đám-cưới-hoàng-gia .fic {
+  background: #fffaf5;
+  border: 1px solid #b39ddb;
+  border-left: 4px solid #b39ddb;
+}
+.mood-đám-cưới-hoàng-gia .title {
+  color: #8e24aa;
+}
+
+.mood-đám-cưới-hoàng-gia .group h2 {
+  color: #8e24aa;
+  font-family: 'Playfair Display', serif;
+
+  border-bottom: 2px solid #b39ddb;
+
+
+}
+
+
+.mood-đám-cưới-hoàng-gia .page a {
+  background: #b39ddb;
+  color: #4a148c;
+  font-family: 'Playfair Display', serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-đám-cưới-hoàng-gia .page a:hover {
+  background: #9575cd;
+  color: #fff;
+}
+
+/* Mood: Cưới bí mật giữa rừng */
+.mood-cưới-bí-mật-giữa-rừng body {
+  background: linear-gradient(to bottom, #dcedc8, #c8e6c9);
+  color: #2e7d32;
+}
+.mood-cưới-bí-mật-giữa-rừng header {
+  background: #ffffff;
+  color: #33691e;
+}
+.mood-cưới-bí-mật-giữa-rừng footer {
+  background: #ffffff;
+  color: #33691e;
+}
+.mood-cưới-bí-mật-giữa-rừng .fic {
+  background: #ffffff;
+  border: 1px solid #8bc34a;
+  border-left: 4px solid #8bc34a;
+}
+.mood-cưới-bí-mật-giữa-rừng .title {
+  color: #558b2f;
+}
+
+.mood-cưới-bí-mật-giữa-rừng .group h2 {
+  color: #558b2f;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+
+  border-bottom: 2px solid #8bc34a;
+
+
+}
+
+
+.mood-cưới-bí-mật-giữa-rừng .page a {
+  background: #8bc34a;
+  color: #1b5e20;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-cưới-bí-mật-giữa-rừng .page a:hover {
+  background: #7cb342;
+  color: #ffffff;
+}
+
+/* Mood: Minh Hôn Bí Cảnh */
+.mood-minh-hôn-bí-cảnh body {
+  background: linear-gradient(to bottom, #1c1c1c, #2d0000);
+  font-family: 'Cinzel', serif;
+  color: #ff1744;
+}
+.mood-minh-hôn-bí-cảnh header {
+  background: #300000;
+  color: #f44336;
+  font-size: 30px;
+}
+.mood-minh-hôn-bí-cảnh footer {
+  background: #300000;
+  color: #f44336;
+  font-size: 11px;
+}
+.mood-minh-hôn-bí-cảnh .fic {
+  background: #1c1c1ccc;
+  border: 1px solid #d32f2f;
+  border-left: 4px solid #d32f2f;
+}
+.mood-minh-hôn-bí-cảnh .title {
+  color: #ff1744;
+}
+.mood-minh-hôn-bí-cảnh .desc {
+  color: #cc3333;
+}
+
+.mood-minh-hôn-bí-cảnh .group h2 {
+  color: #ff1744;
+  font-family: 'Cinzel', serif;
+
+  border-bottom: 2px solid #d32f2f;
+
+
+}
+
+
+.mood-minh-hôn-bí-cảnh .page a {
+  background: #d32f2f;
+  color: #ffffff;
+  font-family: 'Cinzel', serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  transition: transform 0.2s ease-in-out;
+}
+
+.mood-minh-hôn-bí-cảnh .page a:hover {
+  background: #b71c1c;
+  color: #fff;
+  transform: scale(1.05);
+}
+
+/* Mood: Minh Hôn Đêm Trăng */
+.mood-minh-hôn-đêm-trăng body {
+  font-family: 'Cinzel', serif;
+  background: linear-gradient(to bottom, #1a1a2e, #2c2c54);
+  color: #e1bee7;
+}
+.mood-minh-hôn-đêm-trăng header {
+  background: #2c2c54;
+  color: #f3f3f3;
+  font-size: 30px;
+}
+.mood-minh-hôn-đêm-trăng footer {
+  background: #2c2c54;
+  color: #f3f3f3;
+  font-size: 11px;
+}
+.mood-minh-hôn-đêm-trăng .fic {
+  background: #1e1e2e;
+  border: 1px solid #9c27b0;
+  border-left: 4px solid #9c27b0;
+}
+.mood-minh-hôn-đêm-trăng .title {
+  color: #e1bee7;
+}
+.mood-minh-hôn-đêm-trăng .desc {
+  color: #6666cc;
+}
+
+.mood-minh-hôn-đêm-trăng .group h2 {
+  color: #e1bee7;
+  font-family: 'Cinzel', serif;
+
+  border-bottom: 2px solid #9c27b0;
+
+
+}
+
+
+.mood-minh-hôn-đêm-trăng .page a {
+  background: #9c27b0;
+  color: #ffffff;
+  font-family: 'Cinzel', serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  transition: transform 0.2s ease-in-out;
+}
+
+.mood-minh-hôn-đêm-trăng .page a:hover {
+  background: #7b1fa2;
+  color: #fff;
+  transform: scale(1.05);
+}
+
+/* Mood: Minh Hôn Đưa Dâu Rừng Trúc */
+.mood-minh-hôn-đưa-dâu-rừng-trúc body {
+  font-family: 'Cinzel', serif;
+  background: linear-gradient(to bottom, #1b2c1b, #263826);
+  color: #dcedc8;
+}
+.mood-minh-hôn-đưa-dâu-rừng-trúc header {
+  background: #2e3b2e;
+  color: #a5d6a7;
+  font-size: 30px;
+}
+.mood-minh-hôn-đưa-dâu-rừng-trúc footer {
+  background: #2e3b2e;
+  color: #a5d6a7;
+  font-size: 11px;
+}
+.mood-minh-hôn-đưa-dâu-rừng-trúc .fic {
+  background: #1b1f1b;
+  border: 1px solid #81c784;
+  border-left: 4px solid #81c784;
+}
+.mood-minh-hôn-đưa-dâu-rừng-trúc .title {
+  color: #c8e6c9;
+}
+.mood-minh-hôn-đưa-dâu-rừng-trúc .desc {
+  color: #669966;
+}
+
+.mood-minh-hôn-đưa-dâu-rừng-trúc .group h2 {
+  color: #c8e6c9;
+  font-family: 'Cinzel', serif;
+
+  border-bottom: 2px solid #81c784;
+
+
+}
+
+
+.mood-minh-hôn-đưa-dâu-rừng-trúc .page a {
+  background: #81c784;
+  color: #1b2c1b;
+  font-family: 'Cinzel', serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  transition: transform 0.2s ease-in-out;
+}
+
+.mood-minh-hôn-đưa-dâu-rừng-trúc .page a:hover {
+  background: #66bb6a;
+  color: #ffffff;
+  transform: scale(1.05);
+}
+
+/* Mood: Minh Hôn Trấn Trạch */
+.mood-minh-hôn-trấn-trạch body {
+  font-family: 'Cinzel', serif;
+  background: linear-gradient(to bottom, #4e0000, #1b0000);
+  color: #ffe082;
+}
+.mood-minh-hôn-trấn-trạch header {
+  background: #3e2723;
+  color: #ffd54f;
+  font-size: 30px;
+}
+.mood-minh-hôn-trấn-trạch footer {
+  background: #3e2723;
+  color: #ffd54f;
+  font-size: 11px;
+}
+.mood-minh-hôn-trấn-trạch .fic {
+  background: #1c1c1c;
+  border: 1px solid #ff8f00;
+  border-left: 4px solid #ff8f00;
+}
+.mood-minh-hôn-trấn-trạch .title {
+  color: #ffb300;
+}
+.mood-minh-hôn-trấn-trạch .desc {
+  color: #cc3300;
+}
+
+.mood-minh-hôn-trấn-trạch .group h2 {
+  color: #ffb300;
+  font-family: 'Cinzel', serif;
+
+  border-bottom: 2px solid #ff8f00;
+
+
+}
+
+
+.mood-minh-hôn-trấn-trạch .page a {
+  background: #ff8f00;
+  color: #1b0000;
+  font-family: 'Cinzel', serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  transition: transform 0.2s ease-in-out;
+}
+
+.mood-minh-hôn-trấn-trạch .page a:hover {
+  background: #ff6f00;
+  color: #ffffff;
+  transform: scale(1.05);
+}
+
+/* Mood: Minh Hôn Lạc Dương */
+.mood-minh-hôn-lạc-dương body {
+  font-family: 'Cinzel', serif;
+  background: linear-gradient(to bottom, #ede0c9, #f5f5dc);
+  color: #bf360c;
+}
+.mood-minh-hôn-lạc-dương header {
+  background: #fce4b6;
+  color: #6d4c41;
+  font-size: 30px;
+}
+.mood-minh-hôn-lạc-dương footer {
+  background: #fce4b6;
+  color: #6d4c41;
+  font-size: 11px;
+}
+.mood-minh-hôn-lạc-dương .fic {
+  background: #fff8e1;
+  border: 1px solid #ff7043;
+  border-left: 4px solid #ff7043;
+}
+.mood-minh-hôn-lạc-dương .title {
+  color: #bf360c;
+}
+.mood-minh-hôn-lạc-dương .desc {
+  color: #806517;
+}
+
+.mood-minh-hôn-lạc-dương .group h2 {
+  color: #bf360c;
+  font-family: 'Cinzel', serif;
+
+  border-bottom: 2px solid #ff7043;
+
+
+}
+
+
+.mood-minh-hôn-lạc-dương .page a {
+  background: #ff7043;
+  color: #fff8e1;
+  font-family: 'Cinzel', serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-minh-hôn-lạc-dương .page a:hover {
+  background: #e64a19;
+  color: #fff;
+}
+
+/* Mood: Long Tộc Chân Chính */
+.mood-long-tộc-chân-chính body {
+  background: linear-gradient(to bottom, #3b0000, #000000);
+  color: #ffd700;
+  font-family: 'Cinzel', serif;
+}
+.mood-long-tộc-chân-chính header {
+  background: #b71c1c;
+  color: #ffeb3b;
+  font-size: 30px;
+}
+.mood-long-tộc-chân-chính footer {
+  background: #b71c1c;
+  color: #ffeb3b;
+  font-size: 11px;
+}
+.mood-long-tộc-chân-chính .fic {
+  background: #1a0000;
+  border: 1px solid #ff8f00;
+  border-left: 4px solid #ff8f00;
+}
+.mood-long-tộc-chân-chính .title {
+  color: #ffc107;
+}
+.mood-long-tộc-chân-chính .desc {
+  color: #cc9966;
+}
+
+.mood-long-tộc-chân-chính .group h2 {
+  color: #ffc107;
+  font-family: 'Cinzel', serif;
+
+  border-bottom: 2px solid #ff8f00;
+
+
+}
+
+
+.mood-long-tộc-chân-chính .page a {
+  background: #ff8f00;
+  color: #1a0000;
+  font-family: 'Cinzel', serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: transform 0.2s ease-in-out;
+}
+
+.mood-long-tộc-chân-chính .page a:hover {
+  background: #ff6f00;
+  color: #ffffff;
+  transform: scale(1.05);
+}
+
+/* Mood: Long Tộc Tân Thời (Urban Fantasy) */
+.mood-long-tộc-tân-thời-urban-fantasy body {
+  background: linear-gradient(to right, #0d47a1, #1a237e);
+  color: #bbdefb;
+  font-family: 'Orbitron', sans-serif;
+}
+.mood-long-tộc-tân-thời-urban-fantasy header {
+  background: #1e1e2f;
+  color: #82b1ff;
+  font-size: 30px;
+}
+.mood-long-tộc-tân-thời-urban-fantasy footer {
+  background: #1e1e2f;
+  color: #82b1ff;
+  font-size: 11px;
+}
+.mood-long-tộc-tân-thời-urban-fantasy .fic {
+  background: #0d0d2f;
+  border: 1px solid #00e5ff;
+  border-left: 4px solid #00e5ff;
+}
+.mood-long-tộc-tân-thời-urban-fantasy .title {
+  color: #69f0ae;
+}
+.mood-long-tộc-tân-thời-urban-fantasy .desc {
+  color: #3399ff;
+}
+
+.mood-long-tộc-tân-thời-urban-fantasy .group h2 {
+  color: #69f0ae;
+  font-family: 'Orbitron', sans-serif;
+
+  border-bottom: 2px solid #00e5ff;
+
+
+}
+
+
+.mood-long-tộc-tân-thời-urban-fantasy .page a {
+  background: #00e5ff;
+  color: #0d0d2f;
+  font-family: 'Orbitron', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: transform 0.2s ease-in-out;
+}
+
+.mood-long-tộc-tân-thời-urban-fantasy .page a:hover {
+  background: #00bcd4;
+  color: #ffffff;
+  transform: scale(1.05);
+}
+
+/* Mood: Long Tộc Cưới Huyết Khế Ước */
+.mood-long-tộc-cưới-huyết-khế-ước body {
+  background: linear-gradient(to bottom, #1a0000, #330000);
+  color: #fce4ec;
+  font-family: 'Almendra SC', serif;
+}
+.mood-long-tộc-cưới-huyết-khế-ước header {
+  background: #4a0000;
+  color: #ff5252;
+  font-size: 50px;
+}
+.mood-long-tộc-cưới-huyết-khế-ước header h1 {
+  font-size: 50px;
+}
+.mood-long-tộc-cưới-huyết-khế-ước header p {
+  font-size: 12px;
+}
+.mood-long-tộc-cưới-huyết-khế-ước footer {
+  background: #4a0000;
+  color: #ff5252;
+  font-size: 14px;
+}
+.mood-long-tộc-cưới-huyết-khế-ước .fic {
+  background: #1f0000;
+  border: 1px solid #d50000;
+  border-left: 4px solid #d50000;
+}
+.mood-long-tộc-cưới-huyết-khế-ước .title {
+  color: #cc0000;
+  font-size: 23px;
+}
+.mood-long-tộc-cưới-huyết-khế-ước .desc {
+  color: #cc6666;
+  font-size: 18px;
+}
+.mood-long-tộc-cưới-huyết-khế-ước .group h2 {
+  color: #cc0000;
+  font-size: 28px;
+  border-bottom: 2px solid #d50000;
+}
+.mood-long-tộc-cưới-huyết-khế-ước .page a {
+  background: #d50000;
+  color: #fce4ec;
+  font-size: 18px;
+}
+.mood-long-tộc-cưới-huyết-khế-ước .page a:hover {
+  background: #b71c1c;
+  color: #fff;
+  transform: scale(1.05);
+}
+.mood-long-tộc-cưới-huyết-khế-ước .feature {
+  background: transparent;
+  border: 1px solid #fce4ec;
+  color: #fce4ec;
+  font-size: 23px;
+}
+
+/* Mood: Màu Kem Dâu */
+.mood-màu-kem-dâu body {
+  background: linear-gradient(to bottom, #fff0f5, #fffaf0);
+  color: #7b2cbf;
+  font-family: 'Poppins', sans-serif;
+}
+.mood-màu-kem-dâu header {
+  background: #fff0f5;
+  color: #c2185b;
+}
+.mood-màu-kem-dâu footer {
+  background: #fff0f5;
+  color: #c2185b;
+}
+.mood-màu-kem-dâu .fic {
+  background-color: #ffffff;
+  border: 1px solid #f06292;
+  border-left: 4px solid #f06292;
+}
+.mood-màu-kem-dâu .title {
+  color: #d81b60;
+}
+
+.mood-màu-kem-dâu .group h2 {
+  color: #d81b60;
+  font-family: 'Poppins', sans-serif;
+
+  border-bottom: 2px solid #f06292;
+
+
+}
+
+
+.mood-màu-kem-dâu .page a {
+  background: #f06292;
+  color: #fffaf0;
+  font-family: 'Poppins', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-màu-kem-dâu .page a:hover {
+  background: #ec407a;
+  color: #ffffff;
+}
+
+/* Mood: Trời Xanh Bong Bóng */
+.mood-trời-xanh-bong-bóng body {
+  background: linear-gradient(to bottom, #e0f7fa, #fffde7);
+  color: #01579b;
+  font-family: 'Quicksand', sans-serif;
+}
+.mood-trời-xanh-bong-bóng header {
+  background: #ffffff;
+  color: #0288d1;
+}
+.mood-trời-xanh-bong-bóng footer {
+  background: #ffffff;
+  color: #0288d1;
+}
+.mood-trời-xanh-bong-bóng .fic {
+  background-color: #ffffff;
+  border: 1px solid #4dd0e1;
+  border-left: 4px solid #4dd0e1;
+}
+.mood-trời-xanh-bong-bóng .title {
+  color: #0097a7;
+}
+
+.mood-trời-xanh-bong-bóng .group h2 {
+  color: #0097a7;
+  font-family: 'Quicksand', sans-serif;
+
+  border-bottom: 2px solid #4dd0e1;
+
+
+}
+
+
+.mood-trời-xanh-bong-bóng .page a {
+  background: #4dd0e1;
+  color: #ffffff;
+  font-family: 'Quicksand', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 8px;
+  text-decoration: none;
+  display: inline-block;
+  transition: transform 0.2s ease-in-out;
+}
+
+.mood-trời-xanh-bong-bóng .page a:hover {
+  background: #00acc1;
+  color: #ffffff;
+  transform: scale(1.05);
+}
+
+/* Mood: Trà Sữa Trân Châu */
+.mood-trà-sữa-trân-châu body {
+  background: linear-gradient(to bottom, #fff8e1, #efebe9);
+  color: #795548;
+  font-family: 'Hind', sans-serif;
+}
+.mood-trà-sữa-trân-châu header {
+  background: #fff3e0;
+  color: #6d4c41;
+}
+.mood-trà-sữa-trân-châu footer {
+  background: #fff3e0;
+  color: #6d4c41;
+}
+.mood-trà-sữa-trân-châu .fic {
+  background-color: #ffffff;
+  border: 1px solid #a1887f;
+  border-left: 4px solid #a1887f;
+}
+.mood-trà-sữa-trân-châu .title {
+  color: #795548;
+}
+
+.mood-trà-sữa-trân-châu .group h2 {
+  color: #795548;
+  font-family: 'Hind', sans-serif;
+
+  border-bottom: 2px solid #a1887f;
+
+
+}
+
+
+.mood-trà-sữa-trân-châu .page a {
+  background: #a1887f;
+  color: #ffffff;
+  font-family: 'Hind', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: transform 0.2s ease-in-out;
+}
+
+.mood-trà-sữa-trân-châu .page a:hover {
+  background: #8d6e63;
+  color: #fff;
+  transform: scale(1.05);
+}
+
+/* Mood: Kẹo Gummy Cầu Vồng */
+.mood-kẹo-gummy-cầu-vồng body {
+  background: linear-gradient(to right, #f8bbd0, #ffe0b2, #b2dfdb);
+  color: #4a148c;
+  font-family: 'Comic Neue', cursive;
+}
+.mood-kẹo-gummy-cầu-vồng header {
+  background: #ffffff;
+  color: #8e24aa;
+}
+.mood-kẹo-gummy-cầu-vồng footer {
+  background: #ffffff;
+  color: #8e24aa;
+}
+.mood-kẹo-gummy-cầu-vồng .fic {
+  background-color: #ffffff;
+  border: 1px solid #ec407a;
+  border-left: 4px solid #ec407a;
+}
+.mood-kẹo-gummy-cầu-vồng .title {
+  color: #ab47bc;
+}
+
+.mood-kẹo-gummy-cầu-vồng .group h2 {
+  color: #ab47bc;
+  font-family: 'Comic Neue', cursive;
+
+  border-bottom: 2px dashed #ec407a;
+
+
+}
+
+
+.mood-kẹo-gummy-cầu-vồng .page a {
+  background: #ec407a;
+  color: #fff;
+  font-family: 'Comic Neue', cursive;
+  padding: 0.5rem 1rem;
+
+  border-radius: 10px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease-in-out;
+}
+
+.mood-kẹo-gummy-cầu-vồng .page a:hover {
+  background: #d81b60;
+  transform: scale(1.08) rotate(-1deg);
+}
+
+/* Mood: Công Chúa Cổ Điển */
+.mood-công-chúa-cổ-điển body {
+  background: linear-gradient(to bottom, #fff8f0, #ffeef5);
+  font-family: 'Parisienne', cursive;
+  color: #6a1b9a;
+}
+.mood-công-chúa-cổ-điển header {
+  background: #ffffff;
+  color: #ec407a;
+}
+.mood-công-chúa-cổ-điển footer {
+  background: #ffffff;
+  color: #ec407a;
+}
+.mood-công-chúa-cổ-điển .fic {
+  background: #fffafc;
+  border: 1px solid #f48fb1;
+  border-left: 4px solid #f48fb1;
+}
+.mood-công-chúa-cổ-điển .title {
+  color: #c2185b;
+}
+
+.mood-công-chúa-cổ-điển .group h2 {
+  color: #c2185b;
+  font-family: 'Parisienne', cursive;
+
+  border-bottom: 2px dashed #f48fb1;
+
+
+}
+
+
+.mood-công-chúa-cổ-điển .page a {
+  background: #f48fb1;
+  color: #fffafc;
+  font-family: 'Parisienne', cursive;
+  padding: 0.5rem 1.2rem;
+
+  border-radius: 10px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease-in-out;
+}
+
+.mood-công-chúa-cổ-điển .page a:hover {
+  background: #ec407a;
+  transform: scale(1.05);
+}
+
+/* Mood: Cung Điện Disney */
+.mood-cung-điện-disney body {
+  background: radial-gradient(circle, #ede7f6, #b39ddb);
+  font-family: 'Yeseva One', cursive;
+  color: #311b92;
+}
+.mood-cung-điện-disney header {
+  background: #ede7f6;
+  color: #4527a0;
+}
+.mood-cung-điện-disney footer {
+  background: #ede7f6;
+  color: #4527a0;
+}
+.mood-cung-điện-disney .fic {
+  background: #ffffff;
+  border: 1px solid #7e57c2;
+  border-left: 4px solid #7e57c2;
+}
+.mood-cung-điện-disney .title {
+  color: #5e35b1;
+}
+
+.mood-cung-điện-disney .group h2 {
+  color: #5e35b1;
+  font-family: 'Yeseva One', cursive;
+
+  border-bottom: 2px solid #7e57c2;
+
+
+}
+
+
+.mood-cung-điện-disney .page a {
+  background: #7e57c2;
+  color: #ffffff;
+  font-family: 'Yeseva One', cursive;
+  padding: 0.5rem 1.2rem;
+
+  border-radius: 10px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease-in-out;
+}
+
+.mood-cung-điện-disney .page a:hover {
+  background: #5e35b1;
+  transform: scale(1.05) rotate(-0.5deg);
+}
+
+/* Mood: Hoàng Hôn Simba */
+.mood-hoàng-hôn-simba body {
+  background: linear-gradient(to bottom, #ffe082, #ffcc80);
+  font-family: 'Playfair Display', serif;
+  color: #4e342e;
+}
+.mood-hoàng-hôn-simba header {
+  background: #ffe0b2;
+  color: #ef6c00;
+}
+.mood-hoàng-hôn-simba footer {
+  background: #ffe0b2;
+  color: #ef6c00;
+}
+.mood-hoàng-hôn-simba .fic {
+  background: #fff8e1;
+  border: 1px solid #ffb300;
+  border-left: 4px solid #ffb300;
+}
+.mood-hoàng-hôn-simba .title {
+  color: #e65100;
+}
+
+.mood-hoàng-hôn-simba .group h2 {
+  color: #e65100;
+  font-family: 'Playfair Display', serif;
+
+  border-bottom: 2px solid #ffb300;
+
+
+}
+
+
+.mood-hoàng-hôn-simba .page a {
+  background: #ffb300;
+  color: #fff8e1;
+  font-family: 'Playfair Display', serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+}
+
+.mood-hoàng-hôn-simba .page a:hover {
+  background: #f57c00;
+  color: #ffffff;
+  transform: scale(1.05);
+}
+
+/* Mood: Nữ Hoàng Băng Giá (Elsa mode) */
+.mood-nữ-hoàng-băng-giá body {
+  background: linear-gradient(to bottom, #e0f7fa, #ffffff);
+  font-family: 'Raleway', sans-serif;
+  color: #01579b;
+}
+.mood-nữ-hoàng-băng-giá header {
+  background: #e1f5fe;
+  color: #0288d1;
+}
+.mood-nữ-hoàng-băng-giá footer {
+  background: #e1f5fe;
+  color: #0288d1;
+}
+.mood-nữ-hoàng-băng-giá .fic {
+  background: #ffffff;
+  border: 1px solid #4fc3f7;
+  border-left: 4px solid #4fc3f7;
+}
+.mood-nữ-hoàng-băng-giá .title {
+  color: #0277bd;
+}
+
+.mood-nữ-hoàng-băng-giá .group h2 {
+  color: #0277bd;
+  font-family: 'Raleway', sans-serif;
+
+  border-bottom: 2px solid #4fc3f7;
+
+
+}
+
+
+.mood-nữ-hoàng-băng-giá .page a {
+  background: #4fc3f7;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 8px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease-in-out;
+}
+
+.mood-nữ-hoàng-băng-giá .page a:hover {
+  background: #0288d1;
+  transform: scale(1.05);
+}
+
+/* Mood: Maleficent Vibes */
+.mood-maleficent-vibes body {
+  background: linear-gradient(to bottom, #1a1a1a, #2e003e);
+  color: #ce93d8;
+  font-family: 'Cinzel', serif;
+}
+.mood-maleficent-vibes header {
+  background: #290030;
+  color: #9c27b0;
+  font-size: 30px;
+}
+.mood-maleficent-vibes footer {
+  background: #290030;
+  color: #9c27b0;
+  font-size: 11px;
+}
+.mood-maleficent-vibes .fic {
+  background: #1e1e2e;
+  border: 1px solid #8e24aa;
+  border-left: 4px solid #8e24aa;
+}
+.mood-maleficent-vibes .title {
+  color: #ce93d8;
+}
+.mood-maleficent-vibes .desc {
+  color: #ffffff;
+}
+
+.mood-maleficent-vibes .group h2 {
+  color: #ce93d8;
+  font-family: 'Cinzel', serif;
+
+  border-bottom: 2px solid #8e24aa;
+
+
+}
+
+
+.mood-maleficent-vibes .page a {
+  background: #8e24aa;
+  color: #ffffff;
+  font-family: 'Cinzel', serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.25s ease-in-out;
+}
+
+.mood-maleficent-vibes .page a:hover {
+  background: #6a1b9a;
+  transform: scale(1.06);
+}
+
+/* Mood: Evil Queen (Snow White) */
+.mood-evil-queen body {
+  background: linear-gradient(to bottom, #2c0000, #000000);
+  color: #ff1744;
+  font-family: 'Playfair Display', serif;
+}
+.mood-evil-queen header {
+  background: #4a0000;
+  color: #f44336;
+}
+.mood-evil-queen footer {
+  background: #4a0000;
+  color: #f44336;
+}
+.mood-evil-queen .fic {
+  background: #1c1c1c;
+  border: 1px solid #ff1744;
+  border-left: 4px solid #ff1744;
+}
+.mood-evil-queen .title {
+  color: #cc0000;
+}
+.mood-evil-queen .desc {
+  color: #e53935;
+}
+
+.mood-evil-queen .group h2 {
+  color: #ff1744;
+  font-family: 'Playfair Display', serif;
+
+  border-bottom: 2px solid #cc0000;
+
+
+}
+
+
+.mood-evil-queen .page a {
+  background: #ff1744;
+  color: #ffffff;
+  font-family: 'Playfair Display', serif;
+  padding: 0.5rem 1rem;
+
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease-in-out;
+}
+
+.mood-evil-queen .page a:hover {
+  background: #c62828;
+  transform: scale(1.05);
+}
+
+/* Mood: Ursula from Under the Sea */
+.mood-ursula-from-under-the-sea body {
+  background: linear-gradient(to bottom, #3f0071, #00002a);
+  color: #d1c4e9;
+  font-family: 'Cormorant Garamond', serif;
+}
+.mood-ursula-from-under-the-sea header {
+  background: #4a148c;
+  color: #f3e5f5;
+}
+.mood-ursula-from-under-the-sea footer {
+  background: #4a148c;
+  color: #f3e5f5;
+}
+.mood-ursula-from-under-the-sea .fic {
+  background: #1a0033;
+  border: 1px solid #9575cd;
+  border-left: 4px solid #9575cd;
+}
+.mood-ursula-from-under-the-sea .title {
+  color: #b39ddb;
+}
+.mood-ursula-from-under-the-sea .desc {
+  color: #d1c4e9;
+}
+
+.mood-ursula-from-under-the-sea .group h2 {
+  color: #b39ddb;
+  font-family: 'Cormorant Garamond', serif;
+
+  border-bottom: 2px dashed #9575cd;
+
+
+}
+
+
+.mood-ursula-from-under-the-sea .page a {
+  background: #6a1b9a;
+  color: #f3e5f5;
+  font-family: 'Cormorant Garamond', serif;
+  padding: 0.5rem 1.2rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease-in-out;
+}
+
+.mood-ursula-from-under-the-sea .page a:hover {
+  background: #4a148c;
+  color: #ffffff;
+  transform: scale(1.05);
+}
+
+/* Mood: Cruella de Vil – Fashion Villain */
+.mood-cruella-de-vil-fashion-villain body {
+  background: linear-gradient(to bottom, #eeeeee, #ffffff);
+  color: #b71c1c;
+  font-family: 'Lora', serif;
+}
+.mood-cruella-de-vil-fashion-villain header {
+  background: #000000;
+  color: #ef5350;
+}
+.mood-cruella-de-vil-fashion-villain footer {
+  background: #000000;
+  color: #ef5350;
+}
+.mood-cruella-de-vil-fashion-villain .fic {
+  background: #fdfdfd;
+  border: 1px solid #c62828;
+  border-left: 4px solid #c62828;
+}
+.mood-cruella-de-vil-fashion-villain .title {
+  color: #b71c1c;
+}
+
+.mood-cruella-de-vil-fashion-villain .group h2 {
+  color: #b71c1c;
+  font-family: 'Lora', serif;
+
+  border-bottom: 2px dotted #c62828;
+
+
+}
+
+
+.mood-cruella-de-vil-fashion-villain .page a {
+  background: #c62828;
+  color: #ffffff;
+  font-family: 'Lora', serif;
+  padding: 0.5rem 1.2rem;
+
+  border-radius: 0;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease-in-out;
+}
+
+.mood-cruella-de-vil-fashion-villain .page a:hover {
+  background: #b71c1c;
+  transform: scale(1.05) rotate(-1deg);
+}
+
+/* Mood: Cyberpunk City 2088 */
+.mood-cyberpunk-city-2088 body {
+  background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+  color: #00e5ff;
+  font-family: 'Orbitron', sans-serif;
+}
+.mood-cyberpunk-city-2088 header {
+  background: #1a1a40;
+  color: #69f0ae;
+  font-size: 30px;
+}
+.mood-cyberpunk-city-2088 .fic {
+  background: #121212;
+  border: 1px solid #00e676;
+  border-left: 4px solid #00e676;
+}
+.mood-cyberpunk-city-2088 .title {
+  color: #00ffff;
+}
+.mood-cyberpunk-city-2088 .desc {
+  color: #ffffff;
+}
+.mood-cyberpunk-city-2088 footer {
+  background: #1a1a40;
+  color: #69f0ae;
+  font-size: 11px;
+}
+
+.mood-cyberpunk-city-2088 .group h2 {
+  color: #00e5ff;
+  font-family: 'Orbitron', sans-serif;
+
+  border-bottom: 2px solid #00e676;
+
+
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+
+.mood-cyberpunk-city-2088 .page a {
+  background: #00e5ff;
+  color: #000000;
+  font-family: 'Orbitron', sans-serif;
+  padding: 0.5rem 1.2rem;
+
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out, transform 0.2s;
+  box-shadow: 0 0 8px #00e676;
+}
+
+.mood-cyberpunk-city-2088 .page a:hover {
+  background: #00bcd4;
+  transform: scale(1.05);
+  box-shadow: 0 0 12px #00e676;
+}
+
+/* Mood: Space Odyssey: Sao Băng Trôi */
+.mood-space-odyssey-sao-băng-trôi body {
+  background: radial-gradient(circle at center, #1c1c1c, #000000);
+  color: #4dd0e1;
+  font-family: 'Share Tech Mono', monospace;
+}
+.mood-space-odyssey-sao-băng-trôi header {
+  background: #263238;
+  color: #00bcd4;
+}
+.mood-space-odyssey-sao-băng-trôi .fic {
+  background: #1a1a1a;
+  border: 1px solid #4dd0e1;
+  border-left: 4px solid #4dd0e1;
+}
+.mood-space-odyssey-sao-băng-trôi .title {
+  color: #26c6da;
+}
+.mood-space-odyssey-sao-băng-trôi .desc {
+  color: #ffffff;
+}
+.mood-space-odyssey-sao-băng-trôi footer {
+  background: #263238;
+  color: #00bcd4;
+  font-size: 11px;
+}
+
+.mood-space-odyssey-sao-băng-trôi .group h2 {
+  color: #26c6da;
+  font-family: 'Share Tech Mono', monospace;
+  font-weight: normal;
+  border-bottom: 2px dashed #4dd0e1;
+
+
+  letter-spacing: 1px;
+}
+
+
+.mood-space-odyssey-sao-băng-trôi .page a {
+  background: #00bcd4;
+  color: #000000;
+  font-family: 'Share Tech Mono', monospace;
+  padding: 0.5rem 1.2rem;
+
+  border-radius: 3px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 0 8px #26c6da;
+}
+
+.mood-space-odyssey-sao-băng-trôi .page a:hover {
+  background: #26c6da;
+  transform: translateY(-2px);
+}
+
+/* Mood: Hệ Điều Hành LaylaOS */
+.mood-hệ-điều-hành-layla-os body {
+  background: linear-gradient(to bottom, #e3f2fd, #ffffff);
+  color: #1e88e5;
+  font-family: 'Ubuntu Mono', monospace;
+}
+.mood-hệ-điều-hành-layla-os header {
+  background: #bbdefb;
+  color: #0d47a1;
+}
+.mood-hệ-điều-hành-layla-os .fic {
+  background: #ffffff;
+  border: 1px solid #42a5f5;
+  border-left: 4px solid #42a5f5;
+}
+.mood-hệ-điều-hành-layla-os .title {
+  color: #1e88e5;
+}
+.mood-hệ-điều-hành-layla-os footer {
+  background: #bbdefb;
+  color: #0d47a1;
+}
+.mood-hệ-điều-hành-layla-os .group h2 {
+  color: #1e88e5;
+  font-family: 'Ubuntu Mono', monospace;
+
+  border-bottom: 2px solid #42a5f5;
+
+
+}
+.mood-hệ-điều-hành-layla-os .page a {
+  background: #42a5f5;
+  color: #ffffff;
+  font-family: 'Ubuntu Mono', monospace;
+  padding: 0.5rem 1.2rem;
+
+  border-radius: 3px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s ease-in-out;
+  box-shadow: 0 0 5px #64b5f6;
+}
+.mood-hệ-điều-hành-layla-os .page a:hover {
+  background: #1e88e5;
+  transform: translateY(-1px);
+}
+
+/* Mood: Neon Lab Virus Test Zone */
+.mood-neon-lab-virus-test-zone body {
+  background: linear-gradient(to right, #000000, #002b36);
+  color: #00ff99;
+  font-family: 'VT323', monospace;
+}
+.mood-neon-lab-virus-test-zone header {
+  background: #111;
+  color: #ff3d00;
+  font-size: 60px;
+}
+.mood-neon-lab-virus-test-zone .fic {
+  background: #1b1b1b;
+  border: 1px solid #00ffcc;
+  border-left: 4px solid #00ffcc;
+}
+.mood-neon-lab-virus-test-zone .title {
+  color: #ff1744;
+  font-size: 30px;
+}
+.mood-neon-lab-virus-test-zone .desc {
+  color: #ffffff;
+  font-size: 25px;
+}
+.mood-neon-lab-virus-test-zone footer {
+  background: #111;
+  color: #ff3d00;
+  font-size: 20px;
+}
+
+/* Mood: Layla.EXE */
+.mood-layla-exe body {
+  background: repeating-linear-gradient(45deg, #ff1744, #ff1744 10px, #000 10px, #000 20px);
+  color: #00ff00;
+  font-family: 'VT323', monospace;
+}
+.mood-layla-exe header {
+  background: #000000;
+  color: #ff3d00;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 0 0 5px #ff3d00;
+  font-size: 60px;
+}
+.mood-layla-exe .fic {
+  background: #111111;
+  border: 4px dashed #ffff00;
+  box-shadow: 0 0 6px #ffff00;
+}
+.mood-layla-exe .title {
+  color: #ffea00;
+  text-shadow: 0 0 5px #ffea00;
+  font-size: 30px;
+}
+.mood-layla-exe .desc {
+  color: #ffffff;
+  text-shadow: 0 0 5px #ffffff;
+  font-size: 25px;
+}
+.mood-layla-exe footer {
+  background: #000000;
+  color: #ff3d00;
+  text-shadow: 0 0 5px #ff3d00;
+  font-size: 20px;
+}
+
+/* Mood: Blue Screen of fic */
+.mood-blue-screen-of-fic body {
+  background: #01007a;
+  color: #ffffff;
+  font-family: 'Courier New', monospace;
+}
+.mood-blue-screen-of-fic header {
+  text-transform: uppercase;
+  color: #ffffff;
+  background: #01007a;
+}
+.mood-blue-screen-of-fic .fic {
+  border: 2px dashed #ffffff;
+  background: rgba(255, 255, 255, 0.1);
+}
+.mood-blue-screen-of-fic .title {
+  color: #ffff00;
+}
+.mood-blue-screen-of-fic .desc {
+  color: #ffffff;
+}
+.mood-blue-screen-of-fic footer {
+  color: #ffffff;
+  background: #01007a;
+  font-size: 10px;
+}
+.mood-blue-screen-of-fic .group h2 {
+  color: #ffff00;
+  font-family: 'Courier New', monospace;
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  border-bottom: 1px dashed #ffffff;
+
+
+}
+.mood-blue-screen-of-fic .page a {
+  background: #ffff00;
+  color: #01007a;
+  font-family: 'Courier New', monospace;
+
+  padding: 0.4rem 1.2rem;
+  border-radius: 2px;
+  text-decoration: none;
+  display: inline-block;
+  border: 2px solid #ffffff;
+  transition: background 0.2s ease-in-out;
+}
+.mood-blue-screen-of-fic .page a:hover {
+  background: #ffffff;
+  color: #000000;
+  transform: translateY(-1px);
+}
+.mood-blue-screen-of-fic .feature {
+  background: transparent;
+  color: #ffff00;
+  border: 2px dashed #ffffff;
+}
+
+/* Mood: Terminal Error Detected */
+.mood-terminal-error-detected body {
+  background: #1a1a1a;
+  color: #00ff00;
+  font-family: 'Courier New', monospace;
+}
+.mood-terminal-error-detected header {
+  background: #000000;
+  color: #00ff00;
+}
+.mood-terminal-error-detected footer {
+  background: #000000;
+  color: #00ff00;
+  font-size: 10px;
+}
+.mood-terminal-error-detected .fic {
+  background: #000000;
+  border: 1px solid #00ff00;
+  border-left: 4px solid #00ff00;
+}
+.mood-terminal-error-detected .title {
+  color: #00ff00;
+}
+.mood-terminal-error-detected .desc {
+  color: #00ff00;
+}
+.mood-terminal-error-detected .group h2 {
+  color: #00ff00;
+  font-family: 'Courier New', monospace;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  border-bottom: 1px dashed #00ff00;
+
+
+}
+.mood-terminal-error-detected .page a {
+  background: #1a1a1a;
+  color: #00ff00;
+  font-family: 'Courier New', monospace;
+  border: 1px solid #00ff00;
+  padding: 0.5rem 1.5rem;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease-in-out;
+}
+.mood-terminal-error-detected .page a:hover {
+  background: #00ff00;
+  color: #000000;
+  transform: scale(1.05);
+  box-shadow: 0 0 6px #00ff00;
+}
+
+/* Mood: Layla.AI Gone Rogue */
+.mood-layla-ai-gone-rogue body {
+  background: #1a1a1a;
+  color: #ff0033;
+  font-family: 'Courier New', Courier, monospace;
+}
+.mood-layla-ai-gone-rogue header {
+  background: #000000;
+  color: #ff0033;
+}
+.mood-layla-ai-gone-rogue footer {
+  background: #000000;
+  color: #ff0033;
+  font-size: 10px;
+}
+.mood-layla-ai-gone-rogue .fic {
+  background: #000000;
+  border: 1px solid #ff0033;
+  border-left: 4px solid #ff0033;
+}
+.mood-layla-ai-gone-rogue .title {
+  color: #ff0033;
+}
+.mood-layla-ai-gone-rogue .desc {
+  color: #ff3366;
+}
+.mood-layla-ai-gone-rogue .group h2 {
+  color: #ff0033;
+  font-family: 'Courier New', monospace;
+  text-transform: uppercase;
+  border-bottom: 1px dashed #ff0033;
+
+
+}
+.mood-layla-ai-gone-rogue .page a {
+  background: #1a1a1a;
+  color: #ff3366;
+  font-family: 'Courier New', monospace;
+  padding: 0.5rem 1.5rem;
+  border: 2px solid #ff0033;
+  text-decoration: none;
+  display: inline-block;
+  box-shadow: 0 0 6px #ff0033;
+  transition: all 0.2s ease-in-out;
+}
+.mood-layla-ai-gone-rogue .page a:hover {
+  background: #ff0033;
+  color: #000000;
+  transform: scale(1.05);
+  box-shadow: 0 0 12px #ff0033;
+}
+
+/* Mood: Mâm Ngũ Quả Ngày Tết */
+.mood-mâm-ngũ-quả-ngày-tết body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #ffefc1, #d5ffd1);
+  color: #3a3a3a;
+}
+.mood-mâm-ngũ-quả-ngày-tết header {
+  background: linear-gradient(to right, #c42d00, #e9b700);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.mood-mâm-ngũ-quả-ngày-tết footer {
+  color: #333333;
+  background: transparent;
+  font-size: 14px;
+}
+.mood-mâm-ngũ-quả-ngày-tết footer::before {
+    content: '"Mâm này còn thiếu trái đắng, để dành fic sau"';
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #555;
+    font-size: 12px;
+  }
+.mood-mâm-ngũ-quả-ngày-tết .fic {
+  background-color: #fffdf5;
+  border: 2px dashed #c42d00;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.mood-mâm-ngũ-quả-ngày-tết .title {
+  color: #00a651;
+}
+.mood-mâm-ngũ-quả-ngày-tết .desc {
+  color: #5a4e00;
+}
+.mood-mâm-ngũ-quả-ngày-tết .group h2 {
+  font-family: 'Segoe UI', sans-serif;
+  color: #c42d00;
+  border-bottom: 2px solid #e9b700;
+  padding-left: 0.5rem;
+
+}
+.mood-mâm-ngũ-quả-ngày-tết .page a {
+  background: #fffbe6;
+  color: #c42d00;
+  border: 2px solid #e9b700;
+  text-decoration: none;
+  padding: 0.4rem 1.2rem;
+
+  display: inline-block;
+  transition: 0.2s;
+}
+.mood-mâm-ngũ-quả-ngày-tết .page a:hover {
+  background: #ffefc1;
+  color: #008e46;
+  border-color: #00a651;
+  box-shadow: 0 0 6px #c42d00;
+}
+.mood-mâm-ngũ-quả-ngày-tết .feature {
+  background: transparent;
+  color: #c42d00;
+  border: 2px dashed #c42d00;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Mood: Kem Trộn Toàn Tập */
+.mood-kem-trộn-toàn-tập body {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  background: linear-gradient(135deg, #fceabb, #f8b500, #fceabb, #ff5f6d, #ffc371);
+  background-size: 500% 500%;
+  color: #2c2c2c;
+}
+.mood-kem-trộn-toàn-tập header {
+  background: transparent;
+  color: #ff007f;
+  text-shadow: 2px 2px #ffe600, -2px -2px #00e5ff;
+}
+.mood-kem-trộn-toàn-tập footer {
+  background: transparent;
+  color: #5c0036;
+  font-size: 14px;
+}
+.mood-kem-trộn-toàn-tập footer::before {
+    content: '"Da tâm hồn bạn có thể mỏng, nhưng giao diện này thì không."';
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #5c0036;
+    font-size: 12px;
+  }
+.mood-kem-trộn-toàn-tập .fic {
+  background-color: rgba(255, 255, 255, 0.85);
+  border: 3px dotted hotpink;
+  box-shadow: 0 0 20px rgba(255, 105, 180, 0.6);
+  transition: all 0.3s ease;
+}
+.mood-kem-trộn-toàn-tập .page:hover {
+  transform: rotate(-1deg) scale(1.02);
+  box-shadow: 0 0 30px rgba(255, 20, 147, 0.8);
+}
+.mood-kem-trộn-toàn-tập .title {
+  color: #ff1493;
+  text-decoration: underline wavy #ff69b4;
+}
+.mood-kem-trộn-toàn-tập .desc {
+  color: #444;
+  font-style: italic;
+}
+.mood-kem-trộn-toàn-tập .group h2 {
+  font-family: 'Comic Sans MS', cursive;
+  color: #ff1493;
+  text-shadow: 1px 1px yellow, -1px -1px cyan;
+  border-bottom: 2px dashed #ff69b4;
+  padding-left: 1rem;
+
+}
+.mood-kem-trộn-toàn-tập .page a {
+  background: #fff0f5;
+  color: #ff1493;
+  border: 2px dashed #ff69b4;
+  padding: 0.5rem 1rem;
+
+  text-shadow: 1px 1px white;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  display: inline-block;
+}
+.mood-kem-trộn-toàn-tập .page a:hover {
+  background: #ffe6f2;
+  color: #d1007f;
+  transform: scale(1.05) rotate(-1deg);
+  box-shadow: 0 0 15px hotpink;
+}
+.mood-kem-trộn-toàn-tập .feature {
+  background-color: rgba(255, 255, 255, 0.85);
+  color: #ff1493;
+  border: 3px dotted hotpink;
+  box-shadow: 0 0 20px rgba(255, 105, 180, 0.6);
+  transition: all 0.3s ease;
+}
+
+/* Mood: Bắc Cực Quánh Ghen */
+.mood-bắc-cực-quánh-ghen body {
+  font-family: 'Patrick Hand', cursive;
+  background: linear-gradient(to top, #e0f7fa, #ffffff, #bbdefb);
+  color: #1a237e;
+}
+.mood-bắc-cực-quánh-ghen header {
+  font-family: 'Permanent Marker', cursive;
+  color: #01579b;
+  text-shadow: 1px 1px #ffffff;
+  background: transparent;
+}
+.mood-bắc-cực-quánh-ghen footer {
+  color: #5e92f3;
+  background: transparent;
+  font-size: 16px;
+}
+.mood-bắc-cực-quánh-ghen footer::before {
+    content: '"Tình yêu có thể cháy bỏng, nhưng nhớ mặc ấm khi ra Bắc Cực quánh ghen."';
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #5e92f3;
+    font-size: 10px;
+  }
+.mood-bắc-cực-quánh-ghen .fic {
+  background: #ffffffdd;
+  border: 3px dashed #2196f3;
+  box-shadow: 0 0 10px #90caf9;
+  transition: transform 0.3s ease;
+}
+.mood-bắc-cực-quánh-ghen .page:hover {
+  transform: rotate(1deg) scale(1.02);
+    }
+.mood-bắc-cực-quánh-ghen .title {
+  color: #c62828;
+  text-decoration: underline dotted #ef5350;
+}
+.mood-bắc-cực-quánh-ghen .desc {
+  color: #3e3e3e;
+}
+.mood-bắc-cực-quánh-ghen .group h2 {
+  font-family: 'Permanent Marker', cursive;
+  color: #c62828;
+  padding-left: 1rem;
+  border-bottom: 2px dashed #ef5350;
+
+  text-shadow: 1px 1px #fff;
+}
+.mood-bắc-cực-quánh-ghen .page a {
+  background: #e3f2fd;
+  color: #0d47a1;
+  border: 2px solid #90caf9;
+  padding: 0.5rem 1rem;
+
+  border-radius: 5px;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+.mood-bắc-cực-quánh-ghen .page a:hover {
+  background: #bbdefb;
+  color: #c62828;
+  box-shadow: 0 0 10px #64b5f6;
+  transform: scale(1.05) rotate(-1deg);
+}
+
+/* Mood: Tuesday */
+.mood-tuesday body {
+  font-family: 'Dancing Script', cursive;
+  background: linear-gradient(135deg, #ffdde1 0%, #ee9ca7 100%);
+  color: #7a0b0b;
+}
+.mood-tuesday header {
+  background: #ffffff;
+  color: #7a0b0b;
+}
+.mood-tuesday footer {
+  background: #ffffff;
+  color: #7a0b0b;
+  font-size: 14px;
+}
+.mood-tuesday .fic {
+  background: #e3f2fd;
+  border: 1px solid #90caf9;
+  border-left: 4px solid #90caf9;
+}
+.mood-tuesday .title {
+
+  color: #e6005c;
+  text-shadow: 1px 1px 3px #ffb6c1;
+}
+.mood-tuesday .page:hover {
+  transform: scale(1.01);
+  box-shadow: 0 0 12px rgba(255, 105, 180, 0.6);
+  transition: 0.3s ease;
+}
+.mood-tuesday .desc {
+  font-family: 'Great Vibes', cursive;
+}
+.mood-tuesday .group h2 {
+  font-family: 'Dancing Script', cursive;
+  color: #d1004b;
+  border-bottom: 2px solid #ff99cc;
+  padding-left: 1rem;
+
+  text-shadow: 1px 1px #fff;
+}
+.mood-tuesday .page a {
+  background: #ffe6eb;
+  color: #b30059;
+  border: 2px solid #f48fb1;
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+
+  box-shadow: 0 0 5px #ffb6c1;
+  transition: all 0.3s ease;
+}
+.mood-tuesday .page a:hover {
+  background: #ffccdc;
+  color: #7a0b0b;
+  transform: scale(1.05) rotate(-1deg);
+  box-shadow: 0 0 10px hotpink;
+}
+
+/* Mood Midnight Terminal */
+
+.mood-midnight-terminal body {
+  background: #000;
+  color: #33ff33;
+  font-family: 'Courier Prime', monospace;
+}
+.mood-midnight-terminal header {
+  background: #111;
+  color: #33ff33;
+  font-size: 30px;
+  border-bottom: 1px solid #00ff99;
+}
+.mood-midnight-terminal .group h2 {
+  color: #00ff99;
+  border-bottom: 2px solid #00ff99;
+  padding-left: 1rem;
+
+}
+.mood-midnight-terminal .fic {
+  background: #0a0a0a;
+  border: 1px solid #33ff33;
+  border-left: 4px solid #33ff33;
+  padding: 1rem;
+}
+.mood-midnight-terminal .title {
+  color: #00ff99;
+}
+.mood-midnight-terminal .desc {
+  color: #66ff66;
+}
+.mood-midnight-terminal .page a {
+  color: #00ff99;
+  text-decoration: none;
+  border: 1px solid #33ff33;
+  background-color: #1a1a1a;
+}
+.mood-midnight-terminal .page a:hover {
+  text-shadow: 0 0 5px #00ff99;
+}
+.mood-midnight-terminal footer {
+  background: #111;
+  color: #33ff33;
+  border-bottom: 1px solid #00ff99;
+  font-size: 10px;
+}
+
+/* Mood: Cyber Neon */
+
+.mood-cyber-neon body {
+  background: linear-gradient(135deg, #1a0033, #00334d);
+  color: #00f7ff;
+  font-family: 'Orbitron', sans-serif;
+}
+.mood-cyber-neon header 
+{
+  background: #0a0020;
+  color: #00f7ff;
+  font-size: 30px;
+  border-bottom: 1px solid #ff00ff;
+}
+.mood-cyber-neon .group h2 {
+  color: #ff00ff;
+  border-bottom: 2px solid #00f7ff;
+  padding-left: 1rem;
+
+  text-shadow: 0 0 5px #ff00ff;
+}
+.mood-cyber-neon .fic {
+  background: #120033;
+  border: 1px solid #00f7ff;
+  border-left: 4px solid #00f7ff;
+  box-shadow: 0 0 10px #00f7ff40;
+  padding: 1rem;
+}
+.mood-cyber-neon .title {
+  color: #ff00ff;
+  text-shadow: 0 0 6px #ff00ff;
+}
+.mood-cyber-neon .desc {
+  color: #ccffff;
+}
+.mood-cyber-neon .page a {
+  color: #ff00ff;
+  text-decoration: none;
+  transition: 0.3s;
+  border: 1px solid #00f7ff;
+  background: linear-gradient(135deg, #00334d, #1a0033);
+}
+.mood-cyber-neon .page a:hover {
+  color: #ffffff;
+  text-shadow: 0 0 8px #ff00ff;
+}
+.mood-cyber-neon footer {
+  background: #0a0020;
+  color: #00f7ff;
+  border-bottom: 1px solid #ff00ff;
+  font-size: 10px;
+}
+
+/* Mood: Highlighter Pink */
+.mood-highlighter-pink body {
+  background: #ffffff;
+  color: #ff007f;
+  font-family: 'Patrick Hand', cursive;
+}
+.mood-highlighter-pink header {
+  background: #fff0f5;
+  color: #ff1493;
+  border-bottom: 1px solid #ff69b4;
+}
+.mood-highlighter-pink .group h2 {
+  color: #ff1493;
+  border-bottom: 2px solid #ff69b4;
+  padding-left: 1rem;
+
+  text-shadow: 0 0 3px #ffb6c1;
+}
+.mood-highlighter-pink .fic {
+  background: #fff5fa;
+  border: 1px solid #ff69b4;
+  border-left: 4px solid #ff69b4;
+  box-shadow: 0 0 6px rgba(255, 105, 180, 0.3);
+  padding: 1rem;
+}
+.mood-highlighter-pink .title {
+  color: #ff007f;
+
+  text-shadow: 0 0 4px #ff99cc;
+}
+.mood-highlighter-pink .desc {
+  color: #cc0066;
+}
+.mood-highlighter-pink .page a {
+  color: #ff3366;
+
+  text-decoration: none;
+  background: #ffffff;
+  border: 1px solid #ff99cc;
+  box-shadow: 0 0 6px rgba(255, 105, 180, 0.3);
+}
+.mood-highlighter-pink .page a:hover {
+  background: #ffebf0;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+.mood-highlighter-pink footer {
+  background: #fff0f5;
+  color: #ff1493;
+  border-bottom: 1px solid #ff69b4;
+}
+
+/* Mood: Retro Win95 */
+.mood-retro-win95 body {
+  background: #C0C0C0;
+  color: black;
+  font-family: 'Tahoma', sans-serif;
+}
+.mood-retro-win95 header {
+  background: #000080;
+  color: white;
+}
+.mood-retro-win95 footer {
+  color: #888;
+}
+.mood-retro-win95 .group h2 {
+  color: black;
+  border-bottom: 2px solid #000080;
+}
+.mood-retro-win95 .fic {
+   border: 2px solid #808080;
+   background: white;
+   box-shadow: inset 2px 2px #FFFFFF, inset -2px -2px #808080;
+}
+.mood-retro-win95 .title {
+   color: #000080;
+}
+.mood-retro-win95 .desc {
+   color: #555;
+}
+.mood-retro-win95 .page a {
+  background: #C0C0C0;
+  border: 2px solid #808080;
+  color: black;
+}
+
+/* Mood: Giấy Hồng */
+.mood-giấy-hồng body {
+  background: pink;
+  color: #660033;
+  font-family: 'Dancing Script', cursive;
+}
+.mood-giấy-hồng header {
+  background: #FFDDEE;
+  color: 990055;
+}
+.mood-giấy-hồng footer {
+  color: #888;
+}
+.mood-giấy-hồng .group h2 {
+  color: #cc3366;
+  border-bottom: 2px solid #FF69B4;
+}
+.mood-giấy-hồng .fic {
+   border: 2px dashed #FF69B4;
+   background: FFF0F5;
+}
+.mood-giấy-hồng .title {
+   color: #FF1493;
+}
+.mood-giấy-hồng .desc {
+   color: #800040;
+}
+.mood-giấy-hồng .page a {
+  background: #FFB6C1;
+  color: white;
+}
+
+/* Mood: Xã hội đen hoàn lương */
+.mood-xã-hội-đen-hoàn-lương body {
+  font-family: 'Raleway', sans-serif;
+  background: #0c0c0c;
+  color: #c9a227;
+}
+.mood-xã-hội-đen-hoàn-lương header {
+  background: #111;
+  color: #c9a227;
+  font-family: 'Cinzel', serif;
+  font-size: 30px;
+  letter-spacing: 1px;
+  box-shadow: 0 2px 10px rgba(255,255,255,0.05);
+}
+.mood-xã-hội-đen-hoàn-lương footer {
+  color: #ccc;
+  font-style: italic;
+}
+.mood-xã-hội-đen-hoàn-lương footer::before {
+    content: '"Tôi từng chọn bóng tối... giờ tôi chọn highlight code"';
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #555;
+    font-size: 10px;
+  }
+.mood-xã-hội-đen-hoàn-lương .fic {
+  background: #1a1a1a;
+  border: 1px solid #c9a227;
+  border-left: 5px solid #c9a227;
+  box-shadow: 0 0 5px rgba(255,255,255,0.03);
+}
+.mood-xã-hội-đen-hoàn-lương .title {
+  color: #f5d76e;
+  font-family: 'Cinzel', serif;
+}
+.mood-xã-hội-đen-hoàn-lương .desc {
+  color: #ccc;
+}
+.mood-xã-hội-đen-hoàn-lương .group h2 {
+  color: #c9a227;
+  font-family: 'Playfair Display', serif;
+  border-bottom: 2px solid #c9a227;
+}
+.mood-xã-hội-đen-hoàn-lương .page a {
+  background: #c9a227;
+  color: #111;
+}
+
+/* Mood: Tay Tắm Máu */
+
+.mood-tay-tắm-máu body {
+    background: #121212;
+    color: #d32f2f;
+    font-family: 'Cormorant Garamond', serif;
+  }
+.mood-tay-tắm-máu header {
+    background: #b71c1c;
+    color: #fff;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: 'Cinzel Decorative', cursive;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+  }
+.mood-tay-tắm-máu .fic {
+    background-color: #212121;
+    border: 2px solid #d32f2f;    
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  }
+.mood-tay-tắm-máu .title {
+    color: #990000;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+  }
+.mood-tay-tắm-máu .desc {
+    font-family: 'UnifrakturCook', cursive;
+    color: #ff6666;
+  }
+.mood-tay-tắm-máu footer {
+    background-color: #212121;
+    color: #fff;
+    font-style: italic;
+    font-size: 14px;
+  }
+.mood-tay-tắm-máu footer::before {
+    content: '"Tôi từng viết bằng ngón tay rướm máu… giờ tôi dùng HTML cho đỡ bẩn bàn phím"';
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #ff7043;
+    font-size: 8px;
+  }
+.mood-tay-tắm-máu .group h2 {
+  font-family: 'Cinzel Decorative', cursive;
+  color: #cc0000;
+  border-bottom: 2px solid #b71c1c;
+  padding-left: 1rem;
+  text-shadow: 1px 1px 3px #000;
+
+}
+.mood-tay-tắm-máu .page a {
+  background-color: #b71c1c;
+  color: #ffffff;
+  border: 2px solid #f44336;
+  padding: 0.4rem 1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+
+}
+.mood-tay-tắm-máu .page a:hover {
+  background-color: #d32f2f;
+  color: #ffebee;
+  transform: scale(1.05);
+  box-shadow: 0 0 10px rgba(255, 82, 82, 0.7);
+}
+
+/* Mood: Cool Ngầu Thị Phi */
+
+.mood-cool-ngầu-thị-phi body {
+    background: linear-gradient(to bottom, #111111, #1f1f1f);
+    color: #d8f3ff;
+    font-family: 'Fira Code', monospace;
+    transition: all 0.3s ease-in-out;
+  }
+
+.mood-cool-ngầu-thị-phi header {
+    background-color: #000000;
+    color: #88e1f2;
+    font-family: 'Space Mono', monospace;
+    font-size: 30px;
+  
+    letter-spacing: 1px;
+  }
+.mood-cool-ngầu-thị-phi .group h2 {
+  font-family: 'Fira Code', monospace;
+  color: #99ccff;
+  border-bottom: 2px solid #444;
+  padding-left: 1rem;
+
+}
+.mood-cool-ngầu-thị-phi .fic {
+    background-color: #1e1e1e;
+    border: 1px solid #444;
+    box-shadow: 0 0 8px rgba(0, 255, 255, 0.1);
+    transition: transform 0.2s ease-in-out;
+  }
+
+.mood-cool-ngầu-thị-phi .page:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(0, 255, 255, 0.2);
+  }
+.mood-cool-ngầu-thị-phi .title {
+
+  color: #6699cc;
+}
+.mood-cool-ngầu-thị-phi .desc {
+  font-family: 'Space Mono', monospace;
+  color: #888B90;
+  
+}
+.mood-cool-ngầu-thị-phi .page a {
+    background-color: #222;
+    color: #00e5ff;
+  
+    border: 1px solid #00e5ff;
+  }
+
+.mood-cool-ngầu-thị-phi .page a:hover {
+    background-color: #00e5ff;
+    color: #000;
+  }
+
+.mood-cool-ngầu-thị-phi footer {
+    color: #888;
+    font-size: 10px;
+    font-style: italic;
+  }
+
+.mood-cool-ngầu-thị-phi footer::before {
+    content: '"Tôi không buôn chuyện, tôi chỉ kể lại những gì tôi tình cờ nghe thấy..."';
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #aaa;
+    font-size: 6px;
+  }
+
